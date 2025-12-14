@@ -1,0 +1,24 @@
+[title]Proven Presentations
+[label]First Name *
+[label]Email *
+[button]Submit
+[b]Get Registered Now
+[div]Just enter your name & email to secure your spot on this webinar...
+[span]SECURE YOUR SPOT NOW
+[div]we will not spam, rent, or sell your information...
+[b]Act Fast - Webinar Spots Fill Up!
+[i]Free Webinar Training Reveals...
+[b]The Proven Formula Used in Sales Videos, Webinars and Offline Events That Has Generated Over 8- Figures In Sales... Without Being Sleazy, Pushy or Manipulative
+[span]REGISTER NOW
+[b]** Just Show Up On The Webinar LIVE and I'll GIVE You A Fully Functioning Presentation Funnel You Can Deploy Immediately
+[b]NEXT WEBINAR STARTS...
+[u]SECRET #1
+[b]Why Speaking Is One of the Highest Paying Careers In the World...
+[b](Discover How to Get Involved Right NOW by Modelling These Strategies)
+[u]SECRET #2
+[b]How to Become a World Class Speaker or Presenter...
+[b](Even If You Have Zero Talent or No Experience)
+[u]SECRET #3
+[b]How To Deliver A Presentation That Has The Audience Begging You Take Their Money After The Presentation...
+[b](Works for Sales Videos, Webinars or Offline Events)
+[span]REGISTER NOW

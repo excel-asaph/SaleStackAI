@@ -1,4 +1,4 @@
-[title]High Income Copywriter™ - The Dan Lok Shop
+[title]High Income Copywriter
 [span]Menu
 [span]0
 [a]SHOP
@@ -43,6 +43,7 @@
 [a]Events
 [a]Dragon 100
 [a]BLOG
+[form]<input type="text" name="q" placeholder="Search" value="" autocapitalize="off" autocomplete="off" autocorrect="off" />
 [span]Login
 [span]0
 [div]My Cart
@@ -87,10 +88,12 @@
 [span]Add to Cart
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [span]$2,497.00
 [span]$19,997.00
 [span]You Save  87% (
 [span]$17,500.00
+[span])
 [label]Translation missing: en.products.notify_form.description:
 [p]Notify me when this product is available:
 [p]course format
@@ -106,6 +109,7 @@
 [p]Now, imagine how quickly you could scale your business, and your client’s businesses, if every ad, every sales page, every message was compliant with Facebook, Google, Instagram, LinkedIn, YouTube and any other online media platform you choose to advertise with … the first time it is submitted for review.
 [p]That’s what is possible when you have a team of
 [em]High Income Copywriters
+[p].
 [h1]WHY IS THIS RELEVANT?
 [p]Every business wants more customers, correct? Customers are the lifeblood of a business. But it is getting harder and harder to attract and convert new customers online.
 [p]Not only from rising ad costs, increased competition, and the decline in organic social media reach …
@@ -114,141 +118,205 @@
 [p]Long copy, bold claims, crazy promises … and in no uncertain terms … telling the reader what to do and what they will achieve.
 [p]This is the
 [strong]Old Copywriting Model
+[p]most copywriters still use today. Take a quick look around on the internet; you will find it almost everywhere.
 [strong]But here is the problem.
 [p]The Social Media and Search Engine giants that control the advertising space online don’t like the
 [strong]Old Copywriting Model
+[p].
 [p]They restrict what you can say, how you say it and the claims and promises you can make. Failure to abide by their rules can result in your account being suspended or worse, shut down.
 [p]Copywriters and business owners who persist in following the
 [strong]Old Copywriting Model
+[p]are fighting a losing battle.
 [p]In short … The
 [strong]Old Copywriting Model
+[p]is dead if you want to successfully market your products or services online and quickly scale your business.
 [p]To be successful, your team must develop the skills of the
 [strong]New Copywriting Model
+[p], which can only be learned in the
 [em]High Income Copywriter™
+[strong]Certification Program
+[p].
 [p]You see human psychology and the way people make a buying decision hasn’t changed, but the way the copy is consumed has changed.
 [p]As a
 [em]High Ticket Copywriter™
+[p], you will have the skill to write copy that engages, persuades and converts cold traffic on social media into a customer without dealing with the knock-backs from the advertising platforms because your copy isn’t compliant.
 [p]This is a very valuable skill to have and is in high demand from a seemingly endless number of businesses on the internet.
 [p]Imagine the possibilities for your business if your entire team were Certified
 [em]High Ticket Copywriter™
+[p].
 [label]Qty
 [span]add to cart
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [h2]Look at the quick results these students achieved after becoming a High Income Copywriter™…
 [em]"…HIC Gave Me The Opportunity Of Learning And Earning Money At The Same Time"
 [h1]HOW WILL IT HELP?
 [em]High Income Copywriter™
+[strong]Certification Program
+[p]is a 7-step Masterclass delivered by me, Dan Lok, my team of copywriting experts and some of my top students, in high-definition video recording.
 [p]This program will teach you and your team how to write copy that is compliant with social media and Google, so you can explode the conversion rate of any marketing funnel you write, drive sales, and quickly scale your business.
 [p]It is
 [strong]UNIQUE
+[p]to the marketplace because it teaches you the
 [strong]New Copywriting Model
+[p]which includes the S.M.I.R.C.C. formula.
 [p]What is the S.M.I.R.C.C. formula?
 [p]S.M.I.R.C.C. is an acronym for,
 [b]S
+[h2]ocial
 [b]M
+[h2]edia
 [b]I
+[h2]mmediate
 [b]R
+[h2]eturn
 [b]C
+[h2]ompliance
 [b]C
+[h2]opy
 [p]After testing hundreds and hundreds of ads and quickly scaling my business to accumulate more than 7.4 million followers across my social media channels, I know how to write compliant copy that converts.
 [p]Now I’m sharing my secrets of how to write short-form, high impact copy for social media that delivers immediate returns and is compliant with all the major online advertising platforms' tight compliance policies.
 [p]This means you and your team will benefit from all the testing I have done without spending hundreds of thousands of dollars on ads, wasting valuable time figuring out what works or having your account suspended or shut down as I did.
 [p]Not only that, once you master the S.M.I.R.C.C. formula, you will be equipped with the skills to write killer copy for the 4 most in-demand profitable pillars in copywriting today.
 [p]Most copywriters don’t know how to do this, which means…
 [h2]Your Business Will Crush the Competition Because All Your
-[br]Marketing Will Pass the Strict Compliance Rules First Time
+[h2]Marketing Will Pass the Strict Compliance Rules First Time
 [h2]Here is a small sample of what you will learn inside:
 [strong]How to always write copy that is compliant and gets results
+[li], so you avoid having your account suspended or shut down
 [strong]7 copywriting exercises you can do right now to have an instant impact
+[li]on improving your copywriting skills
 [li]How to create "
 [strong]Windfall Income
+[li]" in your spare time and turn that into "
 [strong]Recurring Income
+[li]" every month
 [li]The secret to stepping into a competitive market, even as a newbie, and quickly carving out your reputation as a
 [strong]High Income Copywriter™
 [strong]How to sell millions without ever opening your mouth.
+[li]You have to see this to believe it
 [li]Why the
 [strong]S.M.I.R.C.C. formula
+[li]will have agencies chasing YOU to write their client’s copy instead of you scrolling through freelancing sites looking for work
 [strong]How to save your clients from getting their Facebook ad account disabled
+[li]so they can continue to make money (By doing so, you will reap the reward of continual work)
 [strong]The secret to landing your first copywriting gig in the next 30 days or less.
+[li]Start earning while you are still learning
 [strong]How High Income Copywriters price their work to add another zero to their monthly income
+[li](What would that do for your business?)
 [li]And so much more
+[div]<div class="row"> <div class="clm-100"> <p></p></div></div>
 [h1]WHAT NOW?
 [p]The
 [strong]High Income Copywriter™ Certification Program
+[p]will teach you and your team how to increase your conversion rate and scale your business using cold traffic on social media, following the New Copywriting Model and mastering the S.M.I.R.C.C. Formula.
 [strong]Plus, when you graduate, you will be globally recognized as a Certified High Income Copywriter™
 [p]This status sets you and your team apart from other copywriters and it can open the door to working with High Ticket Clients who need copy for multiple campaigns every month. These are clients who can’t afford to lose time having their ads rejected or worse, their accounts shut down.
 [p]No where else can you gain this certification.
 [p]Don’t you want to get ahead of the pack and learn the secrets to writing immediate return, compliant copy for the most popular advertising platform in history … social media?
 [p]Join the
 [em]High Income Copywriter™
+[strong]Certification Program
+[p]today and develop yours and your team's skills to become
 [em]High Income Copywriters
+[p].
 [h1]Click the "Add to Cart" button now to enroll in the
 [strong]High Income Copywriter™ Certification Program
 [label]Qty
 [span]Add to Cart
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [h2]Join the High Income Copywriter™ Certification Program Today and Receive
 [strong]The Complete High Income Copywriter™ Certification Program.
+[li]This program is the fastest, easiest way to become a highly paid and in-demand High Income Copywriter™ - even if you have no experience, degree, or you speak broken English like me.
 [strong]7 Masterclasses taught by me, Dan Lok.
+[li]Each masterclass is delivered in high-definition video and can be viewed on any device with an internet connection. I am also joined by my team of copywriting experts and some of my top students to share their experiences, tips and strategies.
 [strong]Templates to follow.
+[li]Research, advertising, agreements, and even insurance policies. Use these templates to keep your marketing message dialed into the wants of your customer, and to protect your business.
 [strong]Scripts for interviews.
+[li]Follow my proven scripts when you are interviewing a potential customer. Ask the right questions and answer objections like a professional to win the sale.
 [strong]Checklists to craft your message.
+[li]You will never be stuck trying to figure out your killer message for your copy. Use the checklist to craft ideas, and build the overall theme of your copy and the one big idea.
 [strong]Meditation exercises.
+[li]Practice these meditation exercises daily to attract abundance and success and unleash your personal power.
 [strong]Your Copy Vault.
+[li]A collection of masterpieces for you to study. One of the best ways to learn how to write great copy is to study how legendary copywriters construct their sales letters, the words they use and the emotional persuasiveness they weave throughout the letter.
 [strong]Certification from me as a High Income Copywriter™.
+[li]Being certified as a
 [em]High Income Copywriter™
+[li]puts you in a different league from other copywriters. There is a certain prestige that comes with this achievement that sets you apart. It is a magnet for High-Ticket Clients who only want the best because they know that this certification equals results. It means you will be globally recognized as having the skill of
 [em]High Income Copywriter™
+[li]. That you can scale and convert your offers. This is a skill that will be with you for the rest of your life. When you have successfully completed the program, you will receive your
 [em]High Income Copywriter™
+[li]Certificate of Achievement in the mail to frame and hang on your office wall.
 [label]Qty
 [span]add to cart
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [p]But I’m not done yet. When you enroll in the High Income Copywriter™ Certification Program, you will also receive these 9 fantastic free gifts valued at over
 [strong]$9,300
+[p]to accelerate your skill to the level of a
 [em]High Income Copywriter™
+[p].
 [span]Bonus Gift #1
+[h1]- My Personal, $250 Million Swipe File ($5,000 Value)
 [p]I’ve built up a collection of proven ads and sales letters that have generated over $250 million in sales. So anytime you want to write a new sales message, you can take what’s working from this swipe file and tweak it.
 [span]Bonus Gift #2
+[h1]- 11 Breakdowns Of The Most Successful Ads And Emails From Some Of The Most Profitable Product Launches In The World ($1,100 Value)
 [p]You’ll get 11 breakdowns of the most profitable ads and emails from some of the world’s most successful product launches. These have generated over $10 million in days, and you can use the same strategies they used behind it.
 [span]Bonus Gift #3
+[h1]- 300 Fill In The Blank Headline Templates ($300 Value)
 [p]When you need a headline, don’t try to stare at a blank screen. What if I could give you 300 headline templates instead? All you need to do is fill in the blank, and you’ve got a proven headline ready to go.
 [span]Bonus Gift #4
+[h1]- Instant Subject Lines ($100 Value)
 [p]It doesn’t matter how good your email is if people delete it and never read it. That’s why I’ve put together a massive list of some of the best subject lines I could find from all industries.
 [span]Bonus Gift #5
+[h1]- The Complete Compliance Checklist To Scale Without Getting Your Ads Shut Down ($499 Value)
 [p]My team and I spent thousands of hours testing and tweaking to make sure our ads get approved. This took us from getting 90% disapproved to 99% approved. So when you write something for your business or agencies, you could just quickly run through this checklist and not worry about having the ads account disapproved, or worse yet, shut down.
 [span]Bonus Gift #6
+[h1]- The Top-Secret Sales Letter Checklist Of Million Dollar Copywriters! ($799 Value)
 [p]This “checklist” is like having one of the best copywriters in the world look over your shoulders to critique your copy, correct any mistakes you have, and help you skyrocket the pulling power of your marketing piece.
 [p]I originally wrote this checklist for myself when I was running my one-man copywriting agency. I used it to produce over $15 million in revenue for my clients, and now you can too.
 [span]Bonus Gift #7
+[h1]-175 Power Words That Motivate People To Buy ($175 Value)
 [p]You can use this collection of the most impactful power words to grab and hold people’s attention when you want it.
 [span]Bonus Gift #8
+[h1]- The 10 ORIGINAL Sales Letters Of My First Copywriting Mentor, Alan Jacques ($2,499 Value)
 [p]When I was learning from my mentor Alan, he wouldn’t write a sales letter if he didn’t think he would make a million dollars. Now I have one of the very few and rare collections of his letters in the world. So I’m going to give you his best 10 sales letters from my collection.
 [label]Qty
 [span]Add to Cart
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [h1]Here’s some more results from happy High Income Copywriter™ Certification Program students…
 [h1]Perhaps You’re Wondering…
 [span]I am a solopreneur copywriter and I don’t have a team yet. Should I start with the High Income Copywriter™ Certification Program, or is it too advanced for me?
 [strong]High Income Copywriter™ Certification Program
+[p]is designed so anyone can learn the skills to become a
 [strong]High Ticket Copywriter™
+[p]. Copywriting is in high demand, especially for those who have learnt the New Copywriting Model and can scale a business with cold traffic.
 [span]Will High Income Copywriter™ Certification Program help my team become better copywriters?
 [p]Yes.
 [p]Everyone who achieves certification will have the skills to become a
 [strong]High Income Copywriter™
+[p]and write copy that generates profits. If they write for your company, you will see immediate results. If you own an agency and your team writes copy for your clients, they will love the increased revenue it brings.
 [span]Will High Income Copywriter™ Certification Program teach my team how to write awesome copy that increases my leads, my social media engagement, and my conversions from emails and sales pages?
 [p]Yes.
 [p]That’s the primary goal of the
 [strong]High Income Copywriter™ Certification Program
+[p].To make your business more profitable with better copy, by teaching you and your team how to write for the 4 most in-demand profitable pillars in copywriting today. Emails, Chatbots, Landing Pages, and Ads.
 [span]Can my team and I really learn copywriting by watching masterclasses by experts?
 [p]Yes.
 [p]There are only two ways to learn something. 1) Learn from the example of someone else by observing what they do and 2) Learn by doing. With the
 [strong]High Income Copywriter™ Certification Program
+[p], your team and yourself get both. First by watching each masterclass as I teach the fundamentals of the topic. And second by filling in the templates and checklists so they are ready to implement immediately into your business to start generating leads and sales.
 [span]Do I get lifetime access to the vault of the other content I get access to?
 [p]As a
 [strong]High Income Copywriter™
+[p], you have access to all the content you have acquired and all future updates. There is a complete library of programs to help you on your journey to increasing your skills, mindset and scaling your business at Danlokshop.com
 [span]Does Dan Lok teach each masterclass?
 [p]Yes.
 [p]Every masterclass is taught by me, Dan Lok, and my team of professional copywriting experts. You will also be joined by some of my top students who will be sharing their best practices, tips, and strategies with you.
@@ -256,20 +324,8 @@
 [span]BUY HIGH INCOME COPYWRITER™ NOW
 [small]This item is a recurring or deferred purchase. By continuing, I agree to the
 [span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 [h2]Customer Reviews
-[div]Based on 292 reviews
-[a]Write a review
-[div]97%
-[div](284)
-[div]3%
-[div](8)
-[div]0%
-[div](0)
-[div]0%
-[div](0)
-[div]0%
-[div](0)
-[div]N
 [span]Nicolae Hoban
 [b]High Income Copywriter
 [p]I'm a student for over 2 years now.
@@ -289,17 +345,17 @@
 [span]Jacob Hoggan
 [b]Become the person I can be
 [p]For a long time I use to think my only why was to help my family and get a new job, but recently IÕve dug deep and found out my true whyÉ
-[br]That is to be the person not only I thought or think I could be but what others know I could be as well.
-[br]IÕve always thought that I was suppose to do more then most in my family, but seemed to fall just shortÉ
-[br]After reading ÒThink and Grow RichÓ I found out what has happened. I fail then quit, that was it but I found that with copywriting and from Sifu all failure is is feedback and that as changed my life.
-[br]Now I take all the feedback and use it to better myself and become the person I know I can and others know I should be.
+[p]That is to be the person not only I thought or think I could be but what others know I could be as well.
+[p]IÕve always thought that I was suppose to do more then most in my family, but seemed to fall just shortÉ
+[p]After reading ÒThink and Grow RichÓ I found out what has happened. I fail then quit, that was it but I found that with copywriting and from Sifu all failure is is feedback and that as changed my life.
+[p]Now I take all the feedback and use it to better myself and become the person I know I can and others know I should be.
 [div]S
 [span]Santiago Phoenix
 [b]Don't give up. Copy and HIC are powerful
 [p]3 years ago I enrolled in HIC. Yesterday I hit my first $10K month.
-[br]Sifu Dan Lok, I will always be grateful to you and this community. My wife and I did 8 trips around Europe this year alone, and live in one of the fanciest neighborhoods in Lisbon (Portugal), because of Copywriting alone (6 months ago I told her to retire and focus on her passion, photography).
-[br]3 years ago I literally couldn't pay for groceries, was living in a 'Gotham-like' city in Colombia, and had $40k in debt.
-[br]I don't say this to impress you, but to impress upon you that... Copy and HIC are powerful. Don't give up!!
+[p]Sifu Dan Lok, I will always be grateful to you and this community. My wife and I did 8 trips around Europe this year alone, and live in one of the fanciest neighborhoods in Lisbon (Portugal), because of Copywriting alone (6 months ago I told her to retire and focus on her passion, photography).
+[p]3 years ago I literally couldn't pay for groceries, was living in a 'Gotham-like' city in Colombia, and had $40k in debt.
+[p]I don't say this to impress you, but to impress upon you that... Copy and HIC are powerful. Don't give up!!
 [div]S
 [span]Steven Truong
 [b]My First Copywriting Email Boom
@@ -310,70 +366,27 @@
 [span]Santiago Phoenix
 [b]Copywriting saves lives!
 [p]I just received the news that one video I created for an NGO (using copywriting principles) got them a $35,000 grant. This money will allow them to renew the equipment of an old hospital in the country side of Colombia - and save hundreds of lives
-[br]Here are 3 things I did:
-[br]1- Used storytelling to connect emotionally FIRST before trying to pitch anything.
-[br]2- Focused on ONE character - a male peasant who was hit by a car, because the cities are SO overpopulated that they are invading the country side
-[br]3- I introduced data from authority sources to show the magnitude of the problem, and to answer "what's in it for you". Most grantmakers are looking for contribution, so I showed them the huge impact this project was going to have in real families with real faces.
-[br]Dan Lok Your mentorship keeps saving lives. You have no idea the ripple effect of your work, on millions of lives around the globe... many of which don't even know you.
-[br]Thanks Sifu .This is one of those moments that make ALL the learning and effort in learning the copywriting skill worth it.
+[p]Here are 3 things I did:
+[p]1- Used storytelling to connect emotionally FIRST before trying to pitch anything.
+[p]2- Focused on ONE character - a male peasant who was hit by a car, because the cities are SO overpopulated that they are invading the country side
+[p]3- I introduced data from authority sources to show the magnitude of the problem, and to answer "what's in it for you". Most grantmakers are looking for contribution, so I showed them the huge impact this project was going to have in real families with real faces.
+[p]Dan Lok Your mentorship keeps saving lives. You have no idea the ripple effect of your work, on millions of lives around the globe... many of which don't even know you.
+[p]Thanks Sifu .This is one of those moments that make ALL the learning and effort in learning the copywriting skill worth it.
 [div]D
 [span]Daniel Estrada
 [b]accomplish my goals and wishes
 [p]Today I just finished my 3-year sale letter to my future self for module 2.
-[br]I'm expecting a lot of myself to accomplish my goals and wishes
-[br]I want to thank myself for how far I came from all the struggles, and setbacks. I see myself improving each every day
+[p]I'm expecting a lot of myself to accomplish my goals and wishes
+[p]I want to thank myself for how far I came from all the struggles, and setbacks. I see myself improving each every day
 [div]S
 [span]Steven Truong
 [b]I have a copywriting side business I am working on
 [p]It brings a smile to my face every time I think that.
-[br]I am working on a proposal with someone with a coaching program with their website copy.
-[br]Also had an email from my network looking for a copywriter to write a few emails and a few Instagram posts per week.
-[br]It's part-time work of 10-15 hours per week.
-[br]Salary is $2000 - $3000 per month.
-[br]In addition to that, do split ad copy tests.
+[p]I am working on a proposal with someone with a coaching program with their website copy.
+[p]Also had an email from my network looking for a copywriter to write a few emails and a few Instagram posts per week.
+[p]It's part-time work of 10-15 hours per week.
+[p]Salary is $2000 - $3000 per month.
+[p]In addition to that, do split ad copy tests.
 [div]E
 [span]Edmar Vazquez
 [p]I operate from a place of prosperity and abundance.
-[div]A
-[span]Aryan Zinta
-[b]I wanted to share my BOOM with you all.
-[p]I'm writing and delivering emails for a business owner... who in return is also mentoring me.
-[br]Earlier, I was only a copywriter.
-[br]Now, I also send emails through an Email Service Provider.
-[a]1
-[a]2
-[a]3
-[h5]Support 24/7
-[span]Contact us 24 hours a day7 days a week
-[h5]100% Satisfaction
-[span]Your success is our success
-[h5]Free Shipping
-[span]Free Shipping on all US & CAorders above $150
-[h6]Support
-[a]Terms of Service
-[a]Privacy Policy
-[a]Refund & Return Policy
-[a]Track My Order
-[h6]SHOWS AND VIDEOS
-[a]Dan Lok's YouTube
-[a]The Dan Lok Show
-[a]Dan's Instagram
-[a]Terms of Service
-[a]Refund policy
-[h6]dan lok companies
-[p]Address: 422 Richards St #170 Vancouver, BC. V6B 2Z4
-[p]Email: support@danlok.com
-[div]2083
-[div]Verified Reviews
-[span]5/5 Stars Based on 4383 Reviews.
-[p]© 2025
-[a]The Dan Lok Shop
-[title]American Express
-[title]Apple Pay
-[title]Diners Club
-[title]Discover
-[title]Google Pay
-[title]Mastercard
-[title]PayPal
-[title]Shop Pay
-[title]Visa

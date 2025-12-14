@@ -1,0 +1,1116 @@
+[title]Full Time Filmmaker - The Ultimate Online Film School
+[a]Log In
+[h1]THE ULTIMATE ONLINE FILM SCHOOL
+[span]Learn How to Shoot, Edit, & Market High Quality Videos
+[h2]CYBER MONDAY
+[span]60% OFF
+[span]SALE!
+[h2]00
+[p]DAYS
+[h2]00
+[p]HOURS
+[h2]00
+[p]MINS
+[h2]00
+[p]SECS
+[a]JOIN FOR 60% OFF!
+[a]BROWSE WORKSHOPS
+[h4]CLIENTS INCLUDE:
+[h1]WHAT'S INSIDE
+[span]FULL TIME FILMMAKER
+[span]?
+[p]All workshops are included in a membership.
+[span]Equipment 101
+[p]Learn
+[strong]what to buy & save money
+[p]with cameras, lenses, lights, microphones, stabilizers, etc.
+[strong](20 VIDEOS, 3 HOURS)
+[span]Technical 101
+[p]Learn the
+[strong]best settings
+[p]like white balance, color profiles, frame rates, resolution, exposure, etc.
+[strong](25 VIDEOS, 4 HOURS)
+[span]Cinematograph
+[h2]y
+[p]Learn to create
+[strong]cinematic
+[strong]images
+[p]with composition, lighting, angles, lens choice, movements, etc.
+[strong](30 VIDEOS, 5 HOURS)
+[span]Premiere Pro Editing
+[p]Learn our
+[strong]entire editing workflow
+[p]from beginning to end inside Premiere Pro.
+[strong](70 VIDEOS, 10 HOURS)
+[span]Final Cut Pro X Editing
+[p]Learn our
+[strong]entire editing workflow
+[p]from beginning to end inside Final Cut Pro X.
+[strong](20 VIDEOS, 1 HOURS)
+[span]Video Business PRO
+[p]Learn our pricing, marketing, & business best practices to make
+[strong]6-figure incomes
+[strong](70 VIDEOS, 10 HOURS)
+[span]Wedding Video Pro
+[p]Learn how to land, shoot, and edit
+[strong]luxury wedding videos.
+[em](Featuring Jake Weisler)
+[strong](50 VIDEOS, 8 HOURS)
+[span]Real Estate Video Pro
+[p]Learn from practicing professionals how to land, shoot, and edit
+[strong]luxury real estate videos.
+[strong](25 VIDEOS, 4 HOURS)
+[span]Commercial
+[strong]Video Pro
+[p]Learn how to shoot video
+[strong]ads that SELL
+[p]& how to setup and run
+[strong]Facebook & Instagram ads
+[p].
+[strong](50 VIDEOS, 6 HOURS)
+[span]Pocket Filmmaker Course
+[p]Learn to shoot, edit & color professional
+[strong]iPhone videos
+[p].
+[em](Featuring Landon Bytheway)
+[strong](17 VIDEOS, 1 HOURS)
+[span]Travel Video Pro
+[p]Learn how to plan, shoot, and edit
+[strong]engaging travel videos
+[p]that attract paying clients.
+[strong](19 VIDEOS, 2 HOURS)
+[span]Music Video Pro
+[p]Learn how to land, shoot, and edit
+[strong]professional music videos
+[p].
+[em](Featuring Nick Sales)
+[strong](36 VIDEOS, 6 HOURS)
+[span]Youtuber Pro
+[p]Learn my content planning, shooting, and editing process to run a youtube channel of over
+[strong]2,000,000
+[p]subscribers.
+[strong](35 VIDEOS, 5 HOURS)
+[span]Podcast Pro
+[p]Learn what to buy and how to set up, start, produce, shoot, edit, and upload a
+[strong]video podcast
+[p].
+[strong](34 VIDEOS, 5 HOURS)
+[span]Lighting Mastery
+[p]Learn
+[strong]lighting techniques
+[p]that will take your images to a new level of cinematic.
+[em](Featuring Brady Bessette)
+[strong](34 VIDEOS, 5 HOURS)
+[span]Color Grading 101
+[p]Learn the fundamentals of
+[strong]color grading
+[p]inside
+[strong]Davinci Resolve
+[p].
+[em](Featuring Jake Pierrelee)
+[strong](22 VIDEOS, 2 HOURS)
+[span]Seamless Videos
+[p]Learn how to plan, shoot, and edit in-camera "seamless"
+[strong]smooth transitions
+[p].
+[em](Featuring Landon Bytheway)
+[strong](20 VIDEOS, 2 HOURS)
+[span]Photo Pro
+[p]Learn the fundamentals of
+[strong]shooting/editing pro photos
+[p].
+[em](Featuring Nate Taylor)
+[strong](29 VIDEOS, 3 HOURS)
+[span]Audio Mastery
+[p]Learn how to properly
+[strong]capture & mix audio
+[p]+ sound design.
+[em](Featuring Brenden Bytheway)
+[strong](29 VIDEOS, 3 HOURS)
+[span]FPV Crash Course
+[p]Learn the art of achieving
+[strong]cinematic FPV
+[p]drones shots.
+[em](Featuring Trevor Call)
+[strong](10 VIDEOS, 1 HOURS)
+[span]After Effects 101
+[p]Learn the basics of After Effects to create motion graphics to enhance your videos.
+[em](Featuring Filmmaker's VFX Guide)
+[strong](9 VIDEOS, 1 HOURS)
+[h1]THE CURRICULUM
+[h5]VIEW FULL CURRICULUM
+[b]EQUIPMENT 101 (20 VIDEOS - 3 HOURS)
+[p]1.1 - My Top Cameras Recommendations in 2025
+[p]1.2 - 25 Things to Look for When Buying a CAMERA
+[p]1.3 - 10 Things to Look for When Buying a LENS
+[p]1.4 - Photo Lenses vs Cine Lenses - Which to Buy?
+[p]1.5 - What FILTER Should I Buy? UV? ND? PL?
+[p]1.6 - What STABILIZER Should You Buy?
+[p]1.7 - What MICROPHONE Should You Buy?
+[p]1.8 - 5 Things to Look for When Buying LED Lights?
+[p]1.9 - 4 Specs to Look for When Buying a COMPUTER?
+[p]1.10 - 10 Things to Look for When Buying a CAMERA MONITOR?
+[p]1.11 - WHAT'S IN MY BAG? 2016
+[p]1.12 - WHAT'S IN MY BAG? 2018
+[p]1.13 - WHAT'S IN MY BAG? 2019
+[p]1.14 - OFFICE TOUR / WHAT'S IN MY BAG? 2020
+[p]1.15 - Home Office Tour - What's in My Bag 2021
+[p]1.16 - Garage Converted Studio! Office Tour 2022 (11/19/2022)
+[p]1.17 - Travel Tips // Jake 2020
+[p]1.18 - Travel Tips // Parker 2016
+[p]1.19 - What Computer MONITOR to Buy?
+[p]1.20 - How to Clean your Camera (Sensor, Lens, Body)
+[p]What Gear Do Other FTF Members Use? (2023 Update)
+[p]Links to ALL My Camera Gear
+[p]C2 OLED TV Picture Settings
+[b]TECHNICAL 101 (25 VIDEOS - 4 HOURS)
+[b]INTRO TO THE TECHNICAL SECTION
+[p]2.1 - Camera Navigation - Canon
+[p]2.2 - Camera Navigation - Sony
+[p]2.3 - Camera Navigation - Panasonic
+[p]2.4 - Camera Navigation - BMPCC
+[p]2.5 - Camera Navigation - RED
+[p]2.6 - Choosing Correct WHITE BALANCE
+[p]2.7 - Setting PICTURE PROFILE - Canon Cameras
+[p]2.8 - Setting PICTURE PROFILE - Sony Cameras
+[p]2.9 - Standard vs. LOG vs. RAW // Which Should You Use?
+[p]2.10 - What RESOLUTION to Use?
+[p]2.11 - Which FRAME RATE to Use?
+[p]2.12 - EXPOSURE: Shutter Speed, Aperture & ISO
+[p]2.13 - 4 Tools to Nail EXPOSURE
+[p]2.14 - What ASPECT RATIO to Use?
+[p]2.15 - Codecs, Bitrates, & Containers Explained
+[p]2.16 - Best Audio Settings & Mic Placement
+[p]2.17 - 5 Steps to Acoustically Sound Treat a Room
+[p]2.18 - How to Setup + Balance a Glidecam HD PRO
+[p]2.19 - Why Isn't Your Glidecam Balanced? #1 Problem
+[p]2.20 - GLIDECAM - 5 Tips for Smooth Shots
+[p]2.21 - How to Balance a Motorized Gimbal
+[p]2.22 - DJI Ronin Settings + Downloadable Cheat Sheet!
+[p]2.23 - 5 Tips For Smooth Gimbal Shots
+[p]2.24 - How to Calibrate Your Computer Monitor
+[p]2.25 - My C2 OLED TV Picture Settings
+[b]3. CINEMATOGRAPHY (30 Videos - 5 Hours)
+[b]Intro to Cinematography 101
+[p]3.1 - Top 10 Rules of COMPOSITION
+[p]3.2 - 12 CAMERA ANGLES to Enhance Your Films
+[p]3.3 - Focal Length (Lens Choice) 2020
+[p]3.4 - Cinematic Lighting - Direction & Color (Part 1)
+[p]3.5 - Cinematic Lighting - Quality & Quantity (Part 2)
+[p]3.6 - Top 5 TRIPOD Movements
+[p]3.7 - Handheld Movements (2017)
+[p]3.8 - Top 10 GLIDECAM MOVEMENTS
+[p]3.9 - 5 Tips For Shooting Handheld (2020)
+[p]3.10 - 5 Basic Gimbal Movements
+[p]3.11 - Top 10 Unique Motorized Gimbal Moves
+[p]3.12 - Top 5 Slider Movements
+[p]3.13 - 5 Tips to Using MONOPODS
+[p]3.14 - 5 Keys to Smooth Gimbal Shots
+[p]3.15 - Keeping Subject in FOCUS While Moving
+[p]3.16 - STORYTELLING 101 (See Storytelling Workshop)
+[p]3.17 - Creating TIMELAPSES - Start to Finish
+[b]3.18: Creating Timelapses in Camera (Canon R5c)
+[p]3.19 - Creating HYPERLAPSES - Start to Finish
+[p]3.20 - How to Make a Hyperlapse in 8 Minutes with Premiere Pro
+[p]3.21 - The Pre-Production Process
+[p]3.22 - How to GREEN SCREEN (6 Easy Steps)
+[p]BONUS // Beginner vs Pro 4 - Love Story Shootout
+[p]Quick Tip - How to Film Unboxing Videos
+[p]BONUS // 6 Mistakes Beginners Make
+[p]BONUS // Transform Your Videos with a 5-in-1 Reflector
+[p]BONUS // How to Key in After Effects
+[p]My First Short Film... What I Learned
+[p]BONUS: 8 Steps to Shooting an Interview (Documentary Style)
+[p]BONUS: 1 Man Crew vs 10 Man Film Crew // Recreating Hollywood Movies
+[b]4. PREMIERE PRO EDITING
+[b](70 Videos - 10 Hours)
+[b]Intro to Premiere Pro
+[p]1 - Data Management
+[p]2 - Keyboard Shortcuts
+[p]3 - How to Create Proxies
+[p]4 - Import Footage & Prep Timeline (Commercial Edit)
+[p]5 - Timeline Frame Rate Conversion 2022 (Bridal Edit)
+[b]NEW: Typical Workflow in 2025
+[b]Assembly
+[p]Sifting & Cutting Process (Commercial Edit)
+[p]Sifting & Cutting Process (Bridal Edit)
+[p]How to Shorten a Song CORRECTLY! (Bridal Edit)
+[p]Building the Story (Commercial Edit)
+[p]Building the Story (Bridal Edit)
+[p]Reframing & Digital Zooms (Bridal Edit)
+[p]10 Tips to Edit 10x Faster in Premiere Pro
+[p]12 Most Used Cuts & Transitions in Hollywood
+[p]How to Edit to MUSIC (Wedding)
+[p]When to Avoid Jump Cuts
+[b]Color
+[p]REC 709 Conversion from LOG Footage (Bridal Edit)
+[p]Color Correction + Shot Matching (Bridal Edit)
+[p]Color Correction + Shot Matching (Commercial Edit)
+[p]Color Grading w/Hestia LUTs (Bridal Edit)
+[p]Color Grading (Commercial Edit)
+[p]How to Install LUTs & Why Orange & Teal is Popular
+[p]Color Grading with Parker's Orange & Teal Look
+[p]Color Grading Orange & Teal Without Using a LUT
+[p]Correcting SKIN TONES
+[p]RED Weapon Color Layering
+[p]Color Grading D-LOG Footage Mavic 2 Pro
+[p]Color Correction Canon SL2
+[p]How to Fix Desaturated Colors After Exporting out of Premiere Pro
+[p]How to Color Standard 1DX Footage
+[b]Audio
+[p]Audio Mixing & Sound Design 101 (Commercial Edit)
+[p]Audio Mixing & Sound Design 101 (Bridal Edit)
+[p]Advanced Sound Design
+[p]Licensing Music 101
+[p]Syncing Audio in Post
+[p]Eliminate High Frequencies with Notch Filter
+[p]Looping Tracks in Adobe Audition
+[b]Creative Effects
+[p]Reframing & Digital Zooms (Bridal Edit)
+[p]Digital Zoom / Reframe / Vertigo (Wedding Edit)
+[p]Warp Stabilizer
+[p]Sky Replacement
+[p]Film Roll Effect
+[p]Blurring Out Logos
+[p]Time Remapping Directional Blur
+[p]Time Remapping Updated (2020)
+[p]Removing Objects in Premiere
+[p]White-On Effect in After Effects
+[b]Titles / Captions
+[p]How to Auto-Generate Captions / Subtitles
+[p]How to Import & Use MOGRT Files (Animated Titles Presets)
+[p]Motion Titles using After Effects Presets
+[p]Light Leaks and Title Animations (Commercial Edit)
+[p]Light Leaks & Title Animations (Bridal Edit)
+[b]Transitions
+[p]4 Creative Transitions
+[p]Speed Ramping
+[p]Smooth Zoom Transition
+[p]Creating a Letterbox Transition
+[b]Export Settings
+[p]Best Export Settings
+[p]Best Export Settings (Bridal Edit)
+[p]Exporting Square and Vertical Videos
+[p]Exporting to Instagram
+[b]Final Bridal Edit
+[p]Liv + Noah Bridal Final Video
+[b]Job Shadows
+[p]Job Shadow - Cleaning Up a Student's Edit
+[p]Job Shadow - Editing a Real Estate Video
+[p]Job Shadow - Editing a Wedding Video
+[p]Job Shadow - Editing Hyundai Hawaii Edit
+[p]Job Shadow - Editing a Handheld B-Roll Sequence
+[p]Job Shadow - Editing a Travel Video
+[p]Job Shadow - Editing a Hyundai Car Ad
+[p]Job Shadow - Syncing Audio in Plural Eyes Editing a Music Video
+[p]Job Shadow - FPV Car Scene Breakdown
+[p]Job Shadow - Hyundai BTS
+[p]Job Shadow - Hyundai Edit Overview
+[b]Downloads
+[p]Premiere Pro Keyboard Shortcuts
+[p]1000 FPS Footage - Phantom Miro
+[p]Letterbox - Blackbars
+[p]Kauai Project File + Raw Footage
+[p]20 Slo-Mo Sound Effects
+[p]LUTs
+[b]Bonus
+[p]BONUS // 10 Tips to Editing Better Music Videos
+[p]BONUS // Beginner on Premiere vs Pro on iMovie
+[p]Hyundai Commercial Pre-Vis + Edit Breakdown
+[b]BUSINESS VIDEO PRO
+[b]INTRODUCTION
+[li]INTRO: My Story // 6 Steps to 6 Figures
+[li]VIDLEAD – Land More Clients (Free Trial)
+[b]1. Creating Your Business
+[p]1.1 Naming Your Business
+[p]1.2 How to Create a Logo & Logo Animation
+[p]1.3 LLC Setup, Accounting, Taxes (Taken from Course Creator Pro)
+[p]1.4 Business Bank Accounts & Credit Cards
+[p]1.5 Covering Your Assets (Insurance)
+[p]1.6 Setting Up Website Domain & Custom Email (Course Creator Pro)
+[p]1.7 How to Build a Website // Do You Need One?
+[b]2. Running Your Business
+[p]2.1 How Much Should I Charge?
+[p]2.2 How Much to Charge? (Weddings – Jake)
+[p]2.3 Pricing Using Tiered Packages (Weddings – Jake)
+[p]2.4 How to NEGOTIATE a Budget with a Client
+[p]2.5 How to Set Clear EXPECTATIONS with a Client
+[p]2.6 How to Use Our BUDGET CALCULATOR
+[p]2.7 Diversify vs. Specialize – Which Is a Better Business Model?
+[p]2.8 Landing, Producing, Delivering a TV Commercial Beginning to End (Part 1)
+[p]2.9 Landing, Producing, Delivering a TV Commercial Beginning to End (Part 2)
+[p]2.10 Managing Clients, Payments, Contracts
+[p]2.11 How to Deliver Your Final Video
+[p]2.12 PODCAST: My Interview w/ Peter Voogd
+[p]2.13 Staying Motivated and Not Getting Overwhelmed! (Podcast Recommendation)
+[b]3. Marketing Your Business
+[p]3.1 Top 10 Business Mistakes Videographers Make
+[p]3.2 The 9 Mental Triggers of Marketing (Taken from Course Creator Pro)
+[p]3.3 How to Grow a YouTube Channel – Part 1
+[p]3.4 How to Grow a YouTube Channel – Part 2
+[p]3.5 Instagram Marketing 101 + Paid Promotion
+[p]3.5.1 Why Your Instagram Reels & TikToks Don’t Get Views (10 Tips)
+[p]3.5.2 Growing 100,000 Instagram/TikTok Followers in 2 Months – Tanner Interview
+[p]3.6 Top 5 Tips to Successful Facebook Video Marketing
+[p]3.7 5 Elements of Effective Video Ads (Course Creator Pro)
+[p]3.8 FTF Student Went from ZERO to Full Time in 3 Months – Jake Weisler
+[p]3.9 How a Female Videographer Books 80 Weddings a Year – Kaylor Ficklin
+[p]3.10 This Is Why You Aren’t Landing Clients! (Breakdown of Student’s Websites and Portfolios)
+[p]3.11 WHY Are You Struggling to Land Clients? (Text)
+[p]3.12 10 Pricing Strategies (Taken from Course Creator Pro)
+[p]3.13 10 Tips for Effective COLD EMAILS (Email Template)
+[p]3.14 6 Steps to 20K Per Month – Landon Bytheway
+[li]FINDING CLIENTS: 4 Real Estate Clients in 1 Week w/ COLD EMAILS – Johnathan Smith Call
+[li]FINDING CLIENTS: Not-So-Cold Calling, In-Person Meetings, Law of Reciprocity – Ryan Webber Call (Part 1)
+[li]FINDING CLIENTS: How to Pitch Your Services to Clients // Sales Tactics – Ryan Webber Call (Part 2)
+[li]FINDING CLIENTS: Focus on Client ROI via Organic YouTube SEO – Ryan Webber Call (Part 3)
+[li]FINDING CLIENTS: Networking Groups, Sites, Events, Free Lead Magnets – Ryan Gallego (Part 1)
+[li]FINDING CLIENTS: Organic Google My Business & SEO – Ryan Gallego Call (Part 2)
+[li]FINDING CLIENTS: LinkedIn, Posting Regularly, Referrals, Putting Clients’ NEEDS First – Jimmy Klecker Call
+[li]FINDING CLIENTS: Local Community, In-Person Pitches, Put People First – Jordyn Dunseath Call
+[li]My Business Book Recommendations (Text)
+[li]PODCAST Recommendation: Peter Voogd
+[b]4. Scaling Your Business
+[p]4.1 When and How to SCALE Your Business
+[p]4.2 When to Go from PART TIME to FULL TIME
+[p]4.3 Quantification – 1 Key to Scaling a Business
+[p]4.4 When and How to Hire EMPLOYEES
+[p]4.5 10 Tips for Managing Employees Part 1
+[p]4.6 10 Tips for Managing Employees Part 2
+[p]4.7 CONTRACTORS – Outsourcing Your Edits
+[p]4.8 Time Management – 10 Tips to 10x Productivity
+[p]4.9 Will Upgrading Camera Gear Elevate Your Business???
+[p]4.10 Expanding Your Mindset: Kill 2 Birds w/ 1 Stone
+[p]4.11 My 10 Sources of Revenue (2020) – How I Became a Millionaire in My 20s
+[p]4.12 My Original 4 Sources of Revenue (2016)
+[p]4.13 How to Sell Stock Footage
+[p]4.14 How to Rent Your Camera Gear
+[p]4.15 Landing Sponsorship Deals: 2 Things Sponsors Look For!
+[p]4.16 How to Set Up Affiliate Marketing (Taken from Course Creator Pro)
+[p]4.17 How I Make 7 Figures Selling Online Courses (Taken from Course Creator Pro)
+[p]4.18 How to Balance Family and Work (11/30/22)
+[b]5. Accounting, Entities & Taxes
+[p]5.1 LLC vs. S-Corp // Which Entity Should You Choose & Why?
+[p]5.2 Tax Deductions & Write-Offs
+[p]5.3 Bookkeeping to Avoid Audits – QuickBooks Overview
+[p]5.4 How to Pay Myself, Contractors, Employees & Invoice Clients
+[p]5.5 End of Year Tax Planning & Filing
+[p]5.6 When, Why, & How to Hire a CPA
+[b]6. Coaching Calls
+[p]6.1 How Adam Makes $50K/Month with Video
+[p]6.2 Pivoting, Creating vs. Consuming, Overcoming Slumps
+[p]6.3 Making $200K+ a Year with Product Filmmaking
+[p]6.4 How Danielle Makes $400K+ Per Year
+[p]6.5 How Gary Makes $200K+ Per Year Filming Real Estate
+[p]6.6 How Lea Makes Videos for WILL SMITH
+[b]7. Case Studies
+[p]7.1 How to Land Work with Big Brands like Hyundai
+[p]7.2 Hyundai Ioniq 5 $20,000 Shoot // Behind the Scenes
+[p]7.3 How We Budgeted for a $22,000 FlipStick Commercial
+[p]7.4 University Lecture – “20 Things I Did in My 20s to Become a Millionaire by 30”
+[b]Downloads
+[li]Contract Templates
+[li]Release Waiver Form/Template
+[li]Invoice Template
+[b]Quiz
+[li]QUIZ – Video Business 101
+[b]WEDDING VIDEO PRO
+[b]Introduction
+[li]Intro to Wedding Video Pro
+[li]How Jake Got Started
+[li]Private FB Group Access
+[b]Shooting
+[li]TOP 10 Tips to Shooting Wedding Videos
+[li]What's In My Bag
+[li]Camera Settings
+[li]Working with Photographers
+[li]My Top 10 Couple Poses
+[li]How to Shoot a Ceremony
+[li]7 Things I Learned Filming Weddings
+[li]Capturing Ceremony Audio
+[li]Capturing Receptions & Details
+[li]Quick Tip - Audio Setup at Receptions
+[li]Travel Tips
+[li]Working with DJs // Using a Sound Board
+[b]Editing
+[li]Editing Introduction
+[li]Organizing Your Footage
+[li]Sifting Through Footage
+[li]Editing To Music
+[li]My Top 10 Songs and Where to License Them
+[li]Color Grading
+[li]Light Leaks (Jake Weisler Wedding Collection)
+[li]Export Settings
+[li]Aspect Ratio - How to Widescreen
+[b]Marketing
+[li]Marketing Intro
+[li]How To Build a Portfolio
+[li]Instagram 101
+[b]Booking
+[li]Booking Intro
+[li]How to Manage and Grow Your Business
+[li]What Do I Charge?
+[li]How I Charge // Pricing Myself & Creating Packages
+[li]Travel Fees
+[li]Contracts
+[li]My Post-Booking Questionnaire
+[li]Delivering the Video
+[b]Virtual Job Shadows
+[li]First Look Bridal Job Shadow
+[li]My Editing Process Job Shadow
+[li]Arizona Bridal Shoot Job Shadow
+[li]How To Film a Wedding Ceremony Job Shadow
+[li]Full Wedding Day - Missouri Job Shadow
+[li]LDS Temple Wedding Job Shadow
+[li]LDS Wedding Reception Job Shadow
+[li]California Wedding Job Shadow
+[li]How To Shoot a First Look - Job Shadow
+[li]Editing a First Look
+[b]Feedback Friday
+[li]Feedback Friday - Austin Carl
+[li]Feedback Friday - Michael Fenton
+[li]Feedback Friday - Brent Montgomery
+[li]Feedback Friday - Takuya Kohama
+[li]Feedback Friday - Matt Hutchinson
+[li]Feedback Friday - Maciek Heluszka
+[li]Feedback Friday - Makarious Danial
+[b]Discounts and Downloads
+[li]20% Off Soundstripe
+[li]LUTS
+[li]Filmmakers Guide to Audio DISCOUNT
+[b]Wedding Video Pro Quiz
+[li]Wedding Video Pro Quiz
+[b]REAL ESTATE VIDEO PRO
+[li]R1. Top 10 Tips to SHOOTING Real Estate Videos
+[li]R2. Top 10 Tips to EDITING Real Estate Videos
+[li]R3. Top 10 Mistakes on Real Estate Videos
+[li]R4. How to Edit/Color a Real Estate Video - Part 1
+[li]R5. How to Edit a Real Estate Video - Part 2 (Client Revisions)
+[li]R6. 5 Things I Learned Shooting a $10,000,000 Home
+[li]R7. Basics of Flying a Drone
+[li]R8. My Favorite Drone Settings
+[li]R9. Fly Drones Legally: How I Passed the Part 107 w/5 Hours of Study!
+[li]R10. Sound Mixing with Brendan Bytheway
+[li]R11. How to Balance a Ronin S
+[li]R12. Speed Ramp Transitions
+[li]R13. Ronin S Settings + Downloadable Cheat Sheet
+[li]R14. Budget Calculator
+[li]Student Makes $200,000 // Interview With Gary Banzer
+[b]Virtual Job Shadows
+[li]How I Film Real Estate (2023 Updated Workflow) // R5C in 8k RAW
+[li]How to Shoot Real Estate w/Movi M5 & On-screen Actors
+[li]How to Shoot Real Estate w/Glidecam
+[li]$10 Million Home
+[li]How to Shoot Real Estate (Flying My Own Aerials)
+[b]Feedback Friday
+[li]Add Content
+[li]Josh Williams
+[li]Sarah Martin
+[li]Steve Stufflebean
+[li]Cristin
+[li]Manny Gomez
+[b]Quiz
+[li]Add Content
+[li]QUIZ - Real Estate Video Pro
+[b]Downloads
+[li]Add Content
+[li]Parker's Finished Real Estate Videos
+[li]Raw Footage/Premiere Pro Project File From One of My Shoots
+[li]My 10 Favorite Real Estate Songs & Where to License
+[li]How to Write Real Estate Voice Over SCRIPTS (TEMPLATE)
+[li]Smooth Zoom Transitions
+[b]Commercial Video Pro
+[b]C1 - INTRO
+[li]Landing Clients
+[b]C2 - PRE-PRODUCTION
+[li]Negotiating Budget w Client
+[li]Setting Expectations
+[li]Writing a Script
+[li]Creating a Shot List
+[li]Creating a Voice Over
+[b]C3 - PRODUCTION
+[li]How to Shoot a Commercial
+[b]C4 - EDITING
+[li]Import Prep
+[li]Sifting Process
+[li]Building the Story
+[li]Color Correction
+[li]Color Grading
+[li]Audio Mixing & Sound Design
+[li]Titles, Light Leaks & Extras
+[li]Export Settings
+[b]C5 - DISTRIBUTION
+[li]Organic FB & Instagram Posts
+[li]Setting Up Paid FB Ads
+[li]Analyzing FB Ads
+[li]Live Streaming Setup
+[li]Producing a 30-Second TV Commercial (Part One)
+[li]Producing a 30-Second TV Commercial (Part Two)
+[b]C6 - INTERVIEWS
+[li]Interview With Danielle Diamond - How to Make $300K+ a Year
+[li]Interview With Austen Paul - Product Filmmaking
+[b]Commercial Job Shadows
+[li]5 Tips for Shooting Product Videos
+[li]Product Video Editing Breakdown
+[li]How to Shoot a Fitness Video
+[li]Fitness Video Editing Breakdown
+[li]How to Shoot a Corporate Interview
+[li]How to Shoot an Interview with 2 People
+[li]Shooting a Cinematic Computer Unboxing
+[li]How to Shoot a NuSkin Commercial
+[li]Shooting a Lantern Festival (Low Light)
+[li]How to Film a Facebook Ad
+[li]Yoga Instructional Videos
+[li]Virtual Job Shadow // The Flipstik Commercial
+[b]Feedback Friday - Commercials
+[li]Wu Jim
+[li]Nerijus Balsys
+[li]Jamie Abella
+[li]Drew Carlile
+[li]Stephen Fuller
+[li]Taylor Moulton
+[li]Olivia Pinciotti
+[b]Quiz
+[li]Commercial Video Pro Quiz
+[b]POCKET-FILMMAKER COURSE (iPhone)
+[b]Core Lessons
+[li]iPhone Video Buyer's Guide
+[li]Advanced Camera Apps
+[li]iPhone Video Accessories
+[li]iPhone's Hidden Settings
+[li]How to Use the Native Camera App Cinematically
+[li]Which iPhone Lens Should I Use?
+[li]Best Outside Lighting for iPhone
+[li]Camera Movement & Composition
+[li]How to Shoot YouTube Content w/ iPhone
+[li]How to Shoot iPhone in Lowlight
+[li]Transferring Clips from iPhone to a Computer
+[li]Basic Editing in DaVinci Resolve
+[li]How I Color Grade iPhone Footage
+[li]How to Export in DaVinci Resolve
+[li]The Secret Editing Sauce - RSMB
+[li]Kino App Breakdown
+[b]Job Shadows
+[li]Disneyland Home Video
+[b]Exclusive Discounts
+[li]Apple Educational Pricing (10% off)
+[li]Musicbed Royalty Free (3 Months Free)
+[li]Linus App (Formerly Shotlists)
+[b]Downloads
+[li]5 Unique Looks for iPhone
+[li]Sound Effects
+[li]Fonts
+[li]Lightroom Presets
+[b]Travel Video Pro
+[b]Core Lessons
+[li]T1. 10 Tips to SHOOTING Travel Videos: Planning, Content, Composition, Lighting, Settings (Part 1)
+[li]T2. 10 Tips to SHOOTING Travel Videos: Movement, Directing, Storytelling, Making Money (Part 2)
+[li]T3. Thailand EDIT In-Depth Breakdown (Part 3)
+[li]T4. Thailand/Japan Trip Itinerary Text
+[li]T5. How to Land Big Sponsorships like Hyundai
+[li]T6. Job Shadow – Hyundai Kona Hawaii Edit Breakdown
+[li]T7. Travel Tips
+[b]Downloads
+[li]33GB Kauai Footage + Premiere Pro Project File
+[b]Feedback Fridays – Travel Videos
+[li]Feedback Friday – Tristan
+[li]Feedback Friday – Roman
+[li]Feedback Friday – Brenda Van De Ven
+[li]Feedback Friday – Han Young Yu
+[li]Feedback Friday – Emos V
+[li]Feedback Friday – Christopher Olsen
+[li]Feedback Friday – Spencer Sulflow
+[li]Feedback Friday – Walter Weber
+[li]Feedback Friday – Samuil
+[li]Feedback Friday – Carl North
+[li]Feedback Friday – Fernando
+[li]Feedback Friday – Sushil Ahire
+[b]Quiz
+[li]QUIZ – Travel Video Pro
+[b]Music Video Pro
+[b]Introduction
+[li]Intro to the Course
+[li]How Nick Got Started
+[b]Shooting
+[li]Nick's Top 5 Tips for Shooting Music Videos
+[li]What's in My Bag?
+[li]Shooting Different Genres of Music Videos
+[li]Production Crew Roles
+[li]Creative Tips and Tricks for Shooting Music Videos
+[li]Composing Shots for Faces in Music Videos
+[li]Top 5 Favorite Camera Movements
+[li]Directing 101
+[li]Storytelling 101
+[li]Top 10 Tips to Shooting Music Videos
+[li]Renting Gear
+[b]Editing
+[li]How to Sift Through Footage and Create a Master Track
+[li]Export Settings
+[li]How to Find and Edit Thumbnails for Music Videos
+[li]Editing Tips and Tricks
+[li]How to Create Black Bars on the Top and Bottom of the Video (Letterboxing)
+[li]Delivering the Video
+[li]Editing a Music Video from Start to Finish (Part 1)
+[li]Editing a Music Video from Start to Finish (Part 2)
+[li]Editing a Music Video from Start to Finish (Part 3)
+[b]Marketing
+[li]How to Build a Demo Reel
+[li]How Do I Get and Keep Clients
+[li]How to Make a Viral Music Video
+[li]What Do I Charge for Music Videos
+[b]Job Shadows
+[li]VJS: How to Shoot a Dance Music Video
+[li]VJS: When Everything Goes Wrong!
+[li]VJS: Peter Hollens Music Dance Video
+[li]VJS: 6 Music Videos in 6 Days
+[li]VJS: How to Shoot a Music Video – The Piano Guys
+[li]VJS: How to Shoot a Music Video – Tanner Grand
+[li]VJS: Editing a Music Video
+[li]VJS: How to Shoot a Music Video on an iPhone Anamorphic Lens
+[li]VJS: How to Edit a Music Video in 1 Hour (Uncut)
+[li]VJS: C70 + EasyRig Handheld Music Video Job Shadow
+[b]Quiz
+[li]QUIZ – Music Video Pro
+[b]YouTuber Pro
+[b]Intro
+[li]6 Reasons to Create a YouTube Channel
+[li]Choosing a Theme // Top 10 Niches
+[li]Choosing the Name of Your Channel/Business
+[li]What Camera Gear to Buy for YouTubing?
+[b]Content
+[li]3 Keys to Engaging Videos (Relatable, Relevant, Sharable)
+[li]10 Viral Shock Factors to Increase Sharability
+[li]How to "Beat" the YouTube Algorithm
+[li]10 Tips to Increase Retention (Watch Time)
+[li]How to Title a YouTube Video
+[li]Researching a Good Video Idea/Topic
+[li]How to Format/Structure Videos (Storytelling)
+[li]8 Tips to Scripting Engaging YouTube Videos
+[b]Shooting
+[li]How I Shoot YouTube Videos (2019 Setup)
+[li]How I Setup/Shoot YouTube Talking Heads (2021)
+[li]How to Shoot YouTube Videos (Under $1,000)
+[li]10 Tips to Talking to a Camera
+[b]Editing
+[li]Store, Import, and Prep Timeline
+[li]Chopping Up Talking Heads
+[li]Color Grading Talking Heads
+[li]Create Engaging Animated Titles
+[li]EQ, Compression, De-Noise Audio
+[li]Screen Recording B-Roll (Screenflow Workflow)
+[li]Making Your Edit Engaging
+[li]Best Export Settings for YouTube
+[b]Distribution
+[li]10 Tips to Creating Clickable Thumbnails
+[li]Creating a Thumbnail from A to Z
+[li]10 Steps to Upload a YouTube Video
+[li]Distribution is Queen! (Optimizing Your Audience Reach)
+[b]Business
+[li]How I 10x’d AdSense from $20k/year to $200k/year
+[li]Affiliate Marketing // Amazon + Kit Setup
+[li]How to Monetize Your YouTube Videos
+[li]How to Land Sponsorships
+[li]How I Make 7 Figures Selling Online Courses
+[b]Tools & Bonuses
+[li]VIDLEAD – Land More Clients (Free Trial)
+[li]BONUS: YouTube Studio Makeover Under $300!
+[li]BONUS: What You’re Doing WRONG! (Feedback to YOUR Channel)
+[li]BONUS: Feedback Friday – Richard Cardona (YT Vlog)
+[li]DOWNLOAD: 6 Thumbnail Photoshop Files
+[b]Quiz
+[li]QUIZ – YouTuber Pro
+[b]Podcast Pro
+[b]Intro
+[li]What Microphone to Buy for Podcasting?
+[li]What Audio Interface to Buy? (Do You Need One?)
+[li]How to Acoustically Treat a Room Under $1,000
+[li]How to Properly Use a Microphone
+[li]How to Light a Podcast (3 Different Setups)
+[li]Set Design & Background Setup Ideas
+[li]What Camera Gear to Buy for Podcasting?
+[li]Shooting Process (Camera Angles, Atem Mini Pro Switcher)
+[li]8.5. Mock Podcast – Tips for Interviewing Guests
+[b]Editing
+[li]Editing a Podcast in Premiere Pro + Adding Intro Music
+[li]DOWNLOAD: Premiere Pro Keyboard Shortcuts
+[li]AutoPod Edited My Podcast in 47 Seconds!
+[li]Adding Audio Effects (In Premiere Pro)
+[li]Export Settings out of Premiere Pro
+[b]Publishing
+[li]How to Upload Video Podcasts to Spotify (Anchor.FM)
+[li]How to Do Virtual Interviews (Streamyard)
+[li]How to Get Views/Subscribers to Your Podcast
+[li]How to Make Money with a Podcast
+[b]Prep (Podcast + YouTube Essentials)
+[li]How to Title a Podcast Episode/YouTube Video
+[li]3 Keys to Engaging Videos on YouTube (Relatable, Relevant, Sharable)
+[li]Researching a Good Idea/Topic for Podcast Episodes/YouTube Videos
+[li]Choosing the Name of Your Podcast/Channel/Business
+[li]How to Create a Logo and Logo Animation
+[b]Production (Talking Head + Studio Setup)
+[li]10 Tips to Talking to a Camera
+[li]Podcast/YouTube Studio Makeover Under $300!
+[li]How I Setup/Shoot YouTube Talking Heads (2021)
+[li]How to Shoot Talking Heads (Under $1,000)
+[b]Post-Production (Distribution & Optimization)
+[li]Distribution is Queen! (Optimizing Your Audience Reach on YouTube)
+[li]Normalize Audio in Premiere (Youlean Loudness Meter)
+[li]10 Tips to Creating Clickable Thumbnails
+[li]10 Steps to Upload a YouTube Video
+[b]Business
+[li]How to Setup Affiliate Marketing (Amazon + Kit Setup)
+[li]How to Monetize Your YouTube Videos
+[li]How I 10x’d AdSense from $20k/year to $200k/year
+[li]How to Land Sponsorships
+[li]How I Make 7 Figures Selling Online Courses
+[b]Tools & Extras
+[li]VIDLEAD – Land More Clients (Free Trial)
+[li]Podcast FX (Plugin)
+[b]Quiz
+[li]QUIZ – Podcast Pro
+[b]Lighting Mastery
+[b]1. The Basics
+[li]1.1 Introduction to Lighting Mastery
+[li]1.2 What is Lighting?
+[li]1.3 What is Cinematography?
+[li]1.4 Grip Basics
+[li]1.5 Film Set Dictionary Terms
+[li]1.6 Film Set Etiquette
+[b]2. The Technical
+[li]2.1 Types of Lighting (Key, Fill, Rim, Back, etc.)
+[li]2.2 Direction of Light
+[li]2.3 Quality of Light
+[li]2.4 Diffusing Light
+[li]2.5 White Balance
+[li]2.6 Color Temperature
+[li]2.7 RGB Light
+[li]2.8 High Key vs. Low Key
+[li]2.9 3-Point Lighting
+[li]2.10 Practicals vs. Motivated Lighting
+[li]2.11 Exposing Camera for Lighting
+[li]2.12 Using Haze
+[li]2.13 Buying Your First Light
+[li]2.14 Building a Lighting Kit
+[b]3. Modifying Light
+[li]3.1 Source Modifiers
+[li]3.2 Controlling Light
+[li]3.3 Using Existing Light
+[li]3.4 Negative Fill
+[b]4. Lighting Scenarios
+[li]4.1 Outdoor Lighting
+[li]4.2 Interview Lighting
+[li]4.3 Shot Consistency
+[li]4.4 Lighting Moving Subjects
+[b]5. Job Shadows
+[li]5.1 How to Light a Bathroom Scene
+[li]5.2 Golf Commercial with Natural Light & 5-in-1 Reflector (Nate Taylor)
+[b]Legacy Content (Old Lighting Mastery)
+[li]L1. Cinematic Light Shaping – Direction & Color
+[li]L2. Cinematic Light Shaping (Part 2)
+[li]L3. Using Natural Light
+[li]BONUS YOUTUBE // Beginner with $10,000 Lights vs. Pro with Zero
+[b]Seamless Video Pro
+[b]Introduction
+[li]Welcome to Seamless Video Pro!
+[b]Tips, Tricks & Transitions
+[li]8 Smooth, Seamless Transitions
+[li]Top 10 Tips for Shooting Seamless Videos
+[li]Top 10 Tips for Editing Seamless Videos
+[li]Top 10 Unique Motorized Gimbal Moves
+[b]Full-Length Tutorials & Editing Breakdowns
+[li]Handheld B-Roll Sequence – Editing Breakdown
+[li]Cinematic Intro Sequence – Editing Breakdown
+[li]The Whip – Full Tutorial
+[li]Masking/Reveal – Full Tutorial
+[li]Smooth Zoom – Full Tutorial
+[li]Luma Key – Full Tutorial
+[li]Rotation – Full Tutorial
+[li]Match Cut – Full Tutorial
+[li]Glitch – Full Tutorial
+[li]Frame Fill – Full Tutorial
+[li]5 Tips for Shooting Handheld
+[li]VFX Breakdown:
+[i]Watchtower of Turkey
+[b]Job Shadows
+[li]How to Shoot a Cinematic Intro Sequence
+[li]Handheld Editing Montage
+[li]Feedback Friday – Myrtle Beach
+[b]Quiz
+[li]QUIZ – Seamless Video Pro
+[b]Discounts
+[li]20% Off Soundstripe
+[li]Transition Packs (Free & Paid)
+[b]Downloads
+[li]My Shot List
+[li]Slow Motion Whoosh SFX
+[li]Parker’s Smooth Zoom Preset + Tutorial
+[li]Orange & Teal LUTs
+[b]Photo Pro
+[b]Introduction
+[li]Intro to Photo Pro
+[li]10 Beginner Photography Mistakes
+[li]How to Download Presets
+[b]Camera & Gear
+[li]What’s in My Camera Bag (2021)
+[li]Camera Settings – Part 1
+[li]Camera Settings – Part 2
+[b]Shooting Techniques
+[li]Composition
+[li]Shooting with Natural Light
+[li]Cinematic Light Shaping – Part 1
+[li]Cinematic Light Shaping – Part 2
+[li]How to Pose Couples
+[b]Portrait Photography
+[li]Working with Flash Outdoors
+[li]In-Studio Flash Photography / Headshots
+[li]In-Studio Flash Editing Workflow
+[li]Outdoor Flash Editing Workflow
+[b]Product Photography
+[li]Creative Product Photography
+[li]Editing Creative Product Photography
+[li]Flash Product Photography – Lighting
+[li]Flash Product Editing Workflow
+[b]Specialty Photography
+[li]Real Estate Photography – How to Shoot HDR
+[li]Landscape Photography – Lighting & Long Exposures
+[li]Landscape Editing Workflow
+[li]Sports Photography
+[b]Organization & Workflow
+[li]Storage & Organization
+[li]Lightroom Workflow – Import & Sorting
+[li]Lightroom Workflow – Correction
+[li]Lightroom Workflow – Color Grading
+[li]Lightroom Workflow – Finishing & Exporting
+[li]Best Delivery Methods
+[b]The Colorist’s Blueprint
+[b]1. Introduction
+[li]1.1 Introduction to the Colorist’s Blueprint
+[b]2. Nodes
+[li]2.1 Intro to Nodes
+[li]2.2 Types of Nodes
+[b]3. Color Management
+[li]3.1 Defining Color Management
+[li]3.2 Clip-Level Color Management
+[li]3.3 Project-Level Color Management
+[li]3.4 Project-Level Color Management (Bonus Tip)
+[li]3.5 Project-Level Color Management (Bake & Blade Bug)
+[b]4. Color Correction & Node Trees
+[li]4.1 Intro to Color Correction and Passes
+[li]4.2 Big Paintbrush and Little Paintbrush
+[li]4.3 Order of Operations in Your Node Tree
+[li]4.4 Building a Fixed Node Tree
+[li]4.5 Real-Time Color Correction Session
+[b]5. Grading & Look Development
+[li]5.1 What Makes a Good Grade
+[li]5.2 How to Serve the Story
+[li]5.3 Big Paintbrush (Continued)
+[li]5.4 Look Development (Iceland)
+[b]6. Shot Matching
+[li]6.1 Intro to Shot Matching (ft. Bob Ross)
+[li]6.2 Where to Shot Match
+[li]6.3 Real-Time Shot Matching (Part 1)
+[li]6.4 Real-Time Shot Matching (Part 2)
+[b]Bonus
+[li]Fixing the Gamma Shift Issue
+[b]Audio Mastery
+[b]1. Introduction
+[li]Why Master Audio? (w/Brenden Bytheway)
+[b]2. Acoustics & Recording Environment
+[li]Understanding Acoustics (Environment Matters!)
+[li]How to Acoustically Treat a Room (Under $1,000)
+[b]3. Recording Settings & Gear
+[li]Audio Settings: 44.1kHz vs 48kHz & 24-Bit vs 32-Bit
+[li]Lav Mic Setup & Placement (Tascam DR-10L)
+[li]5.1 Zoom F2 + DPA 4060 Lav Mic Setup & Settings
+[li]Boom Mic Setup & Placement Tips (Schoeps 641)
+[li]Storytelling with Audio & SM7B Mic Placement
+[li]Headphones vs. Speakers for Mixing Audio
+[li]What Microphone to Buy? (2021)
+[b]4. Post-Production Workflow
+[li]Parker’s Original Audio Workflow in Premiere Pro
+[li]How to Denoise Audio (RX Denoiser)
+[li]How to Apply EQ (Premiere Pro)
+[li]How to Apply Compression
+[li]How to Finalize Audio (Loudness)
+[li]Best Audio Export Settings
+[b]A. Archived Lessons
+[li]A1. 10 Tips to Improve Your Audio
+[li]A2. What Mic to Buy? (2020)
+[li]A3. Best Audio Settings & Mic Placement
+[li]A4. How to Create Foley
+[li]A5. Audio Mixing & Sound Design 101
+[li]A6. Advanced Sound Design Breakdown
+[b]Bonus Lessons
+[li]Syncing Audio in Post
+[li]Licensing Music 101
+[li]Notch Filter Quick Tip
+[li]Job Shadow: Hyundai Sound Design
+[li]“Sitting There” – Songwriting & Sound Overview
+[li]How to Create the Phone Sound Effect
+[li]Audio Studio Tour (2022)
+[b]FPV 101: Learn to Fly
+[b]Welcome & Foundations
+[li]1.1 Welcome to FPV 101!
+[li]1.2 Exploring the World of FPV
+[li]1.3 FPV Basics Explained
+[b]Gear & Setup
+[li]1.4 Understanding LiPo Batteries
+[li]1.5 Choosing Your First Drone
+[li]1.6 Flying Mechanics & Simulator Setup
+[b]Practice & First Flights
+[li]1.7 Simulator Training: The Basics
+[li]1.8 Your First In-Field Flight
+[li]1.9 In the Field with Trevor (Real-World Demo)
+[b]Next Steps
+[li]Your FPV Journey: Where to Go from Here
+[b]After Effects 101
+[b]Intro
+[li]Welcome to After Effects 101
+[b]Getting Started
+[li]AE1. Navigating the After Effects Interface
+[li]AE2. Creating a New Composition
+[b]Tracking & Compositing
+[li]AE3. Simple Point Tracking
+[li]AE4. Camera Tracking
+[li]AE5. Mocha Essentials (Advanced Tracking)
+[li]AE6. Object Removal Techniques
+[b]Motion Graphics & VFX
+[li]AE7. Motion Graphics Basics
+[li]AE8. Greenscreen Keying Fundamentals
+[li]AE9. Write-On Text Animation
+[b]Next Steps
+[li]Want to See More?
+[li]BONUS: How to Motion Track in After Effects
+[h1]INCLUDED
+[span]BONUS
+[h1]PERKS:
+[p]These alone are worth the cost of joining!
+[h4]SOFTWARE DISCOUNTS
+[strong]Save $540/year
+[p]with Adobe Student Discount, and many other softwares.
+[h4]PRIVATE COMMUNITY ACCESS
+[p]Join our exclusive FB group of
+[strong]30,000+ filmmakers
+[p]from
+[strong]100+ countries
+[p].
+[h4]CASE STUDIES
+[p]Library of interviews/break downs of video pros'
+[strong]successful business practices
+[h4]MENTORSHIP CALLS
+[p]Library of coaching calls
+[strong]helping
+[b]members
+[p]scale their businesses.
+[h4]Regular Video Contests
+[p]Put your skills to the test & enter to
+[strong]win up to $1,000
+[p]in our regular video contests.
+[h4]Budget Calculator
+[p]Access to our spreadsheet to know how much you should
+[strong]charge
+[p]for your work.
+[h4]100+ Custom Sound FX
+[p]Access to our custom made sound FX library of 100+ of our most used Sound FX.
+[h4]Keyboard Shortcuts
+[strong]2x your editing speed
+[p]with our keyboard shortcuts for Premiere Pro, FCPX or Davinci Resolve.
+[h4]Access to FUTURE Content
+[p]Our team creates new course content regularly, make sure you don't miss any of it!
+[span]THAT'S
+[span]$6,000
+[span]OF VALUE
+[span]FOR ONLY:
+[h4]LIFETIME MEMBERSHIP
+[span]$997
+[strong]$397
+[strong]One upfront payment
+[li]One upfront payment for
+[strong]lifetime access
+[li](
+[strong]60% OFF
+[li]for Cyber Monday)
+[li]Stream All
+[strong]700+
+[li]Videos
+[li]Access to
+[strong]future
+[li]videos
+[li]Access to Private
+[strong]FB Group
+[span]Recorded
+[strong]Coaching Calls
+[li]Adobe Student
+[strong]Discount
+[strong]Downloads
+[li]/Presets & More
+[strong]14 Day
+[li]Refund Policy
+[a]JOIN FOR 60% OFF!
+[h4]MONTHLY MEMBERSHIP
+[h2]$37/month
+[p]Billed Monthly
+[li]Billed
+[strong]Monthly
+[li]($444/Year)
+[li]Stream All
+[strong]700+
+[li]Videos
+[li]Access to
+[strong]future
+[li]videos
+[li]Access to Private
+[strong]FB Group
+[li]Recorded
+[strong]Coaching Calls
+[li]Adobe Student
+[strong]Discount
+[strong]Downloads
+[li]/Presets & More
+[strong]14 Day
+[li]Refund Policy
+[a]JOIN NOW
+[h4]ANNUAL MEMBERSHIP
+[h2]$25/month
+[p]Billed Annually (Save 25%)
+[li]Billed
+[strong]Annually
+[li]($297/year)
+[li]Stream All
+[strong]700+
+[li]Videos
+[li]Access to
+[strong]future
+[li]videos
+[li]Access to Private
+[strong]FB Group
+[span]Recorded
+[strong]Coaching Calls
+[li]Adobe Student
+[strong]Discount
+[strong]Downloads
+[li]/Presets & More
+[strong]14 Day
+[li]Refund Policy
+[a]JOIN NOW
+[h1]14 DAY REFUND POLICY
+[p]Don't love the program? We offer full refunds within 14 days.  At a
+[strong]96% satisfaction rating,
+[p]we are confident you WILL love it!
+[h1]WHAT DO OUR
+[span]30,000+
+[h1]MEMBERS SAY?
+[h1]GET STARTED TODAY!
+[p]Transform your video & business skills by enrolling in the ultimate online film school.
+[a]JOIN TODAY!
+[a]Home
+[a]Reviews
+[a]Mobile App
+[a]Terms
+[span]© 2025 Full Time Filmmaker
+[h4]Join Our Free Trial
+[p]Get started today before this once in a lifetime opportunity expires.
+[body]Javascripts =======================================================
+[body]Customer JS =======================================================
+[
+[document]]You will need to change the version to match for Kajabi-UI/styles

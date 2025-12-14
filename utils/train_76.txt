@@ -1,0 +1,313 @@
+[html]<!
+[endif]
+[title]Unlock The Millionaire Within - The Dan Lok Shop
+[span]Menu
+[span]0
+[a]SHOP
+[a]SHOP ALL
+[a]Best Sellers
+[a]New Arrivals
+[a]SHOP BY CATEGORY
+[a]Coaching / Certification Program
+[a]Best-Selling Collection
+[a]Advanced Programs
+[a]Speaking
+[a]Copywriting
+[a]High Income Skills
+[a]Sales and Closing
+[a]Mindset and Motivation
+[a]Wealth and Business
+[a]Social Media Marketing
+[a]Dan's Favorites
+[a]SHOP BY TYPE
+[a]Digital Courses
+[a]FREE Wallpaper
+[a]eBooks & Audio Books
+[a]Apparel
+[a]Merchandise
+[a]Autographed Items
+[a]#WEALTHTRIGGERS
+[a]Chinese (中文)
+[a]Accessories
+[a]SHOP BY BRAND
+[a]High Ticket Closer
+[a]High Income Copywriter
+[a]Dan Lok Brand
+[a]ADVANCED PROGRAMS
+[a]DIGITAL COURSES
+[a]Events
+[a]Dragon 100
+[a]BLOG
+[a]Login
+[a]SHOP
+[a]ADVANCED PROGRAMS
+[a]DIGITAL COURSES
+[a]Events
+[a]Dragon 100
+[a]BLOG
+[form]<input type="text" name="q" placeholder="Search" value="" autocapitalize="off" autocomplete="off" autocorrect="off" />
+[span]Login
+[span]0
+[div]My Cart
+[div]Close
+[p]Your Cart is Empty
+[a]Continue Shopping
+[span]$0.00
+[span]Subtotal
+[a]SHOP ALL
+[a]Best Sellers
+[a]New Arrivals
+[a]SHOP BY CATEGORY
+[a]Coaching / Certification Program
+[a]Best-Selling Collection
+[a]Advanced Programs
+[a]Speaking
+[a]Copywriting
+[a]High Income Skills
+[a]Sales and Closing
+[a]Mindset and Motivation
+[a]Wealth and Business
+[a]Social Media Marketing
+[a]Dan's Favorites
+[a]SHOP BY TYPE
+[a]Digital Courses
+[a]FREE Wallpaper
+[a]eBooks & Audio Books
+[a]Apparel
+[a]Merchandise
+[a]Autographed Items
+[a]#WEALTHTRIGGERS
+[a]Chinese (中文)
+[a]Accessories
+[a]SHOP BY BRAND
+[a]High Ticket Closer
+[a]High Income Copywriter
+[a]Dan Lok Brand
+[div]New
+[h1]Unlock The Millionaire Within
+[span]16 reviews
+[div]"How To Think, Act, Perform, And Earn Money Like The Millionaire Elite"
+[label]Qty
+[span]Add to Cart
+[small]This item is a recurring or deferred purchase. By continuing, I agree to the
+[span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+[span]$297.00
+[span]$999.00
+[span]You Save  70% (
+[span]$702.00
+[span])
+[label]Translation missing: en.products.notify_form.description:
+[p]Notify me when this product is available:
+[p]course format
+[span]22 Modules
+[p]COURSE LENGTH
+[span]11.7 Hours
+[p]topic
+[span]Wealth and Business
+[p]Ideal Biz Size
+[span]$100K  → $1M
+[p]“Dan Lok has one of the sharpest business minds. Listen to what Dan has to say.”
+[p]- DANIEL S. PEÑA SR.
+[p]The Trillion Dollar Man: Founder of QLA (Quantum Leap Advantage)
+[h1]WHAT IS IT?
+[p]Business owners who generate millions in their business don't do it by accident. It's a mindset, a skill set, and to grit through to the ability to give everything they've got. Can you relate?
+[p]If  you can relate, then keep reading because
+[em]Unlock The Millionaire Within
+[p]reveals the exact skill sets you and your Team needs to build a million-dollar business that continues to generate massive wealth on demand forever.
+[h1]WHY IS IT RELEVANT?
+[p]What Dan Lok teaches in
+[em]Unlock The Millionaire Within
+[p]is a specific type of mindset shift that boosts performance and yields new strategies used daily by many of the wealthiest business owners.
+[p]This training has all of it detailed and documented and put into a step-by-step system for you and your Team to model, copy from, and profit from to the tune of millions of dollars. And when you adopt this set of new mindset secrets and skills, everything in your business for you and your Team improves – productivity, mindset, skills, efficiency, and even team culture.
+[h1]HOW CAN IT HELP?
+[p]Having a ruthless compassion to do good and earn more is what will ultimately hurtle your organization towards its goals – and it can do the same for you and your team...with incredible results.
+[p]With Unlock The Millionaire Within you'll discover things like...
+[strong]How to identify foundational secrets of the millionaire mindset.
+[li]How to model millionaires with how they think, act, and perform to their maximum.
+[li]How your Team can do the same as the world's most successful business people do
+[strong]How to quickly set up the 7 types of income streams ALL millionaires have.
+[li]How a single mindset shift will transform your Team culture so everyone has fun being more productive and effective
+[strong]How to put your focus on high-income skills that can generate an extra $10K a month
+[li]or more
+[strong]How to use the 9 immutable laws of money
+[li]is the way most millionaires make money work for them through leverage
+[h1]WHAT NOW?
+[em]Unlock The Millionaire Within
+[p]contains Dan Lok's best-kept secrets for his students and clients to continue to generate wealth based on years of Dan's own trials and errors.
+[p]So if you want to tip the scales of wealth in your favor with the success habits of other wealthy individuals then isn't it time you gave this masterclass a fair try?  Let's do this ...
+[strong]ADD TO CART >
+[label]Qty
+[span]Add to Cart
+[small]This item is a recurring or deferred purchase. By continuing, I agree to the
+[span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+[p]In fact, members paid up to $10,000.00 of their hard-earned money to access what I had prepared for them. At the start, I mentioned the event to just few people and before I knew it, the word had gotten out.
+[p]“Dan Lok was sharing his personal strategies for multiplying wealth he’s learned after decades of studying billionaires... millions in trial-and-error… and learning from people worth hundreds of millions of dollars!"
+[h3]HERE’S A SMALL SAMPLE OF WHAT YOU’LL DISCOVER INSIDE THIS PROGRAM:
+[span]1
+[strong]The Foundation Millionaire Mindset
+[span]You may be a fan of mindset-work.You may not be.But when a millionaire loses their money, have you ever noticed they can often get it all back - fast? Why?It’s because they have a millionaire mindset.Once someone has a millionaire mindset, they can benefit financially for life.
+[span]2
+[strong]Transform Your Relationship With Money
+[span]Believe it or not, wealth first comes from within.Then when you make the small shifts within, that’s when you finally unlock your true financial potential.
+[span]3
+[strong]The 9 Laws of Money
+[span]You’ve probably heard making money is all about - what?It’s about giving value.Yes it’s true - but that advice isn’t always helpful. Now what is helpful is knowing EXACTLY what the laws of money are.These are the laws that every wealthy person obeys - either consciously or unconsciously.When you know these laws consciously, you’ll experience abundance faster and easier than you ever thought possible.
+[span]4
+[strong]Plant and Grow Rich
+[span]You and I live in a distracted world.There is so much conflicting advice on different ways to start a business, get clients, and get marketshare.However, not all advice is good advice. In this module, you’ll discover the “80/20” of advice you need to take action on to get real results - FAST.
+[span]5
+[strong]Develop Your High-Income Skills
+[span]One of the fastest ways to increase your income is to increase your skill.In this module, you’ll discover how to develop what I call: “High-Income Skills”. In other words very specific skills where people are earning $10K a month within 6-12 months.
+[span]6
+[strong]7 Types Of Income Streams Millionaire Have
+[span]Did you know 65% of millionaires have at least three streams of income or more?In this module, you’ll discover the 7 types of income most millionaires (and even non-millionaires) consider “low-hanging fruit”.
+[h3]Click the
+[span]"Add To Cart"
+[h3]button to purchase
+[span]Unlock The Millionaire Within
+[h3]now.
+[label]Qty
+[span]Add to Cart
+[small]This item is a recurring or deferred purchase. By continuing, I agree to the
+[span]cancellation policy
+[small]and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+[span]$297.00
+[span]$999.00
+[span]You Save  70% (
+[span]$702.00
+[span])
+[span]Note: Upon check out, you'll get instant digital access. Your login details for all digital programs will be delivered by Kajabi, our learning software. Please double check your junk/spam mailbox if you couldn't find your log-in details.
+[h2]Customer Reviews
+[div]Based on 16 reviews
+[a]Write a review
+[div]100%
+[div](16)
+[div]0%
+[div](0)
+[div]0%
+[div](0)
+[div]0%
+[div](0)
+[div]0%
+[div](0)
+[div]J
+[span]Jorge
+[p]I enjoyed going through the course because Sifu Dan Lok answered many questions I had about wealth creation...
+[br]And any course that gives you clearity is worth every minute.
+[p]My biggest take away is learning the key differences between being an Entrepreneur and an Investor so I avoid mistakes.
+[div]J
+[span]Jenish Rajbhandari
+[b]Exceptional Training
+[p]Unlock the Millionaire Within is one of the best learnings from Sifu Dan for me. I attended this event live, however, I always go back to his recording time and time again and find one or two most important things to apply right away.
+[p]This is a step-by-step guide to wealth accumulation, which he has revealed to me in such a profound yet simple way a baby can implement.
+[p]But as Dan mentions all the time it is not about tactics for short-term gain, but about strategy and philosophy for long-term vision and accomplishment, this is what this event or course is all about.
+[p]I highly suggest that if you are looking at my review, chances are you are looking to buy it, so take a deep breath, and click that buy button, I personally feel that every penny you invest in this course is 10X, 20X, or even more worth it.
+[div]H
+[span]Hamza Shaikh
+[b]MINDSET SHIFTING
+[p]unlock within the millionaire is one of the best investment program I have ever seen transforming our relationship with money with wealth I have learned so many major things about investment about life it's a life changing program
+[p]thank you sifu DAN LOK will meet him soon
+[div]K
+[span]Kathy Oevering
+[b]Keys to Wealth
+[p]Unlock your own millionaire in you with these keys, mindset shifts and ways to uplevel your thinking, actions and your life!!!! Learn what skills it will take so you know what to focus on in your journey!! Highly recommended~!
+[span]Ilmi Dissanayake
+[b]What you must do and must not do: to be a Millionaire
+[p]I think every single person who wants to learn how be successful, must learn from this; regardless of what you do now.
+[p]Because wherever you are at in life, this training will put you in track to hit the millionaire status, starting from where you are at, even if you have no knowledge, no savings, or in debt!
+[p]Learning from this you will know that Capital does not always mean Financial Capital, but there are other forms of Capital from which you could generate money and that are far more valuable.
+[p]You will also know that saving yourself from losses is also very important when you're going to become a wealthy person.
+[div]R
+[span]Robert Henry
+[b]Your Path To Becoming a Millionaire and More...
+[p]What is the training about?
+[p]Creating an understanding of where you are right now in your life, and what steps and mindset changes you need to make so you can unlock abundance into your life. If you are willing to do the work and follow the strategies in this course, you’ll realise the abundance you can achieve. This course provided me with massive insights on where I was going wrong in my business and life, the poor decisions I was making, including the poor thinking, which doesn’t get you to abundance and millions.
+[p]Why is it relevant to me now?
+[p]There’s no time to like the present to make the necessary changes you need to make to reach abundance in your life. Inaction doesn’t get you to your desired goals, do you agree? Get the necessary insights you need to gain that much needed traction in your life, and live the life you deserve!
+[p]*We don’t create abundance - we create limitations!
+[p]*Action Takers are money Makers!
+[p]*Where attention goes, energy flows and results show!
+[p]How can I apply it?
+[p]The learnings in this course can be applied immediately and encompasses everything from mindset to strategies on how to unlock abundance in your life. Sifu deep dives into decision making, your relationship with money, the 9 laws of money, developing your high income skills  to increase your income just to name a few.
+[p]Thank you for your deep insights in this course Sifu.
+[div]M
+[span]Mario Diaz Vega
+[b]How to Become a Millionaire Safely and in the Shortest Possible Time
+[p]This course has a lot of valuable information. Some people may need time to process it (like me) to get the most golden nuggets. I got a lot of takeaways that I don't know where to start but I will share the more valuable ones and what I can implement right now. Another thing that calls my attention is that Dan talks in detail about the wealth triangle, explaining things that I haven't seen on his YouTube channel, especially scalable business and high return investments. Here are some of the main lessons:
+[p]- I always must make my own research, the due diligence. Always make questions about the investments.
+[p]- Change my negative beliefs about money. Most of them come from family, friends, and media.
+[p]- I learned about the 9 laws of money. The more relevant to me: money loves to circulate, money loves speed, money loves confidence.
+[p]- The importance of having and developing high-income skills (first part of the wealth triangle). This is maybe the most important lesson because is the keystone of Dan's teachings. I chose to focus on digital marketing skill.
+[p]- I learned about the 5 buckets system (how to keep the money I earn).
+[p]- I learned about the investor's levels, and where I am right now.  I already opened an account with a broker to invest in low-cost index funds/ETF.
+[p]- It's not about maximizing my return, it's about minimizing my risk. I should think about the downsides and ways to minimize the risks of my investments.
+[p]- The qualities of the entrepreneur are the opposite of the investor, so I should be aware of this when is time to invest.
+[div]A
+[span]Amit Nath
+[b]The Key to Immortality is First living LIFE Worth Remembering - As told by SIfu for Bruce Lee
+[p]The Bhagvad Gita, one of the oldest books of Human teachings talks the states of growth as
+[p]Serve to deserve
+[p]Deserve to desire
+[p]Desire to detach
+[p]Detach to be Connected in the hearts of Millions
+[p]The 2 days session at Las Vegas was not only an eye-opening session but a lot of deep introspection of where are we and where we want to be.
+[p]Some of the AHA moments as a 19-year Millionaire shared the stage with Sifu and revealed the skills and systems of super high tickets.
+[p]Overall this session would be an epic in the history of businesses forever. Happy to watch when still we can meet Sifu.
+[div]Z
+[span]Zachary Zapata
+[b]Learning The Money Language
+[p]I'm VERY grateful that this live event in Las Vegas was recorded. That means the world to me. I originally came to Dan Lok with the intention to learn what to do with the money that I was earning from my first part-time job. Now after learning from him for a while, and then coming across this, I know exactly what my answer to that question was. More than that, I've gotten a path - or better yet, new ways of thinking and seeing money that help me craft my own path towards prosperity and mastery. There's a lot to be taken from this training, including the guest speaker who's chosen topics barely applied to my current situation. Thank you for this Dan!
+[p]To anyone looking for a primer on understanding the language of money, you've already found it if you're reading this....end of story.
+[a]1
+[a]2
+[h5]Support 24/7
+[span]Contact us 24 hours a day7 days a week
+[h5]100% Satisfaction
+[span]Your success is our success
+[h5]Free Shipping
+[span]Free Shipping on all US & CAorders above $150
+[h6]Support
+[a]Terms of Service
+[a]Privacy Policy
+[a]Refund & Return Policy
+[a]Track My Order
+[h6]SHOWS AND VIDEOS
+[a]Dan Lok's YouTube
+[a]The Dan Lok Show
+[a]Dan's Instagram
+[a]Terms of Service
+[a]Refund policy
+[h6]dan lok companies
+[p]Address: 422 Richards St #170 Vancouver, BC. V6B 2Z4
+[p]Email: support@danlok.com
+[div]2083
+[div]Verified Reviews
+[span]5/5 Stars Based on 4383 Reviews.
+[p]© 2025
+[a]The Dan Lok Shop
+[p].        ALL RIGHTS RESERVED
+[title]American Express
+[title]Apple Pay
+[title]Diners Club
+[title]Discover
+[title]Google Pay
+[title]Mastercard
+[title]PayPal
+[title]Shop Pay
+[title]Visa
+[body]Posthog scripts
+[body]"snippets/special-offers.liquid" was not rendered, the associated app was uninstalled
+[body]spurit_stp-added
+[body]"snippets/spurit_stp-theme-snippet.liquid" was not rendered, the associated app was uninstalled
+[body]/spurit_stp-added
+[body]"snippets/special-offers.liquid" was not rendered, the associated app was uninstalled
+[body]Start of HubSpot Embed Code
+[body]End of HubSpot Embed Code
+[body]PF EDT START
+[body]PF EDT END
+[
+[document]]Google Tag Manager (noscript)
+[
+[document]]End Google Tag Manager (noscript)

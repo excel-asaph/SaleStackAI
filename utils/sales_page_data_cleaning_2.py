@@ -5,67 +5,38 @@ import requests
 from requests import Response
 from requests.exceptions import RequestException, HTTPError
 from typing import List, Literal
-import glob
-import os
-import time
-import urllib3
-import cloudscraper
 
-# Disable SSL warnings
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 TAGS: List[str] = ["meta", "style", "script", "link", "head"]
+count: int = 0
 
-# Determine start count based on existing files
-existing_files = glob.glob("train_*.txt")
-if existing_files:
-    indices = []
-    for f in existing_files:
-        match = re.search(r'train_(\d+).txt', f)
-        if match:
-            indices.append(int(match.group(1)))
-    count = max(indices) + 1 if indices else 0
-else:
-    count = 0
 
-print(f"Starting from train_{count}.txt")
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
 
-# Initialize cloudscraper with specific browser parameters
-scraper = cloudscraper.create_scraper(
-    browser={
-        'browser': 'chrome',
-        'platform': 'windows',
-        'desktop': True
-    }
-)
-
-# Use failed_links.txt if it exists, otherwise default to sales_page_links.txt
-input_file = "failed_links.txt" if os.path.exists("failed_links.txt") else "sales_page_links.txt"
-print(f"Reading links from: {input_file}")
-
-with open(input_file, "r", encoding="utf-8") as file:
+with open("sales_page_links.txt", "r", encoding="utf-8") as file:
     for url in file:
         url = url.strip()
-        if not url:
-            continue
-            
-        print(f"Processing: {url}")
         Training_data: str = ""
         try:
-            # Use cloudscraper instead of requests
-            response: Response = scraper.get(url, timeout=30)
+            response: Response = requests.get(url, headers=headers)
             response.raise_for_status()
             html_content: bytes = response.content
             soup: BeautifulSoup = BeautifulSoup(html_content, "html.parser")
             current_element: PageElement = soup.html or soup.body or soup.contents[0]
         except HTTPError as http_err:
-            print(f"HTTP error occurred for {url}: {http_err}")
+            print(f"HTTP error occurred: {http_err}")
             continue
         except RequestException as e:
-            print(f"Request error occurred for {url}: {e}")
-            continue
-        except Exception as e:
-            print(f"An unexpected error occurred for {url}: {e}")
+            print(f"Request error occurred: {e}")
             continue
         
         while current_element is not None:
@@ -89,8 +60,4 @@ with open(input_file, "r", encoding="utf-8") as file:
         file_name: str = f"train_{count}.txt"
         with open(file_name, "w", encoding="utf-8") as fp:
             fp.write(Training_data)
-        print(f"Saved to {file_name}")
         count += 1
-        
-        # Be polite to servers
-        time.sleep(2)

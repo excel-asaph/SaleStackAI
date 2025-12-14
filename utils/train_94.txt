@@ -1,0 +1,668 @@
+[title]Real Estate Wealth System
+[div]
+[
+[div]
+[
+[div]
+[
+[div]nuxt-delay-hydration-component
+[div]
+[
+[div]
+[
+[ul]
+[
+[ul]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[span]Spots Are Limited.
+[span]Lock Yours In Now.
+[div]]
+[div]
+[
+[h1]Spots Are Limited.
+[h1]Lock Yours In Now.
+[div]]
+[div]
+[
+[div]Container for hidden fields for JIT popup
+[div]]
+[div]
+[
+[div]
+[
+[p]I consent to receive texts and phone calls for updates, reminders, and offers under the terms below.
+[div]
+[
+[p]REGISTER NOW
+[div]]
+[p]I affirm that I’ve reviewed and accepted CARDONE’S
+[a]Terms and Conditions
+[p]and
+[a]Privacy Policy
+[p]. By checking this box, I agree to receive communications, including email, calls, and text messages from CARDONE regarding announcements and company updates. Reply to any messages with STOP at any time to stop receiving messages and request for help by replying HELP. The frequency of messages varies. Message and data rates may apply.
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[h1]Spots Are Limited.
+[h1]SELECT A TIME BELOW.
+[div]]
+[div]
+[
+[div]ONE hidden container only
+[div]]
+[div]
+[
+[div]
+[
+[p]I consent to receive texts for updates, reminders, and offers under the terms below.
+[div]
+[
+[p]REGISTER NOW
+[div]]
+[p]I affirm that I’ve reviewed and accepted CARDONE’S
+[a]Terms and Conditions
+[p]and
+[a]Privacy Policy
+[p]. By checking this box, I agree to receive communications, including email, calls, and text messages from CARDONE regarding announcements and company updates. Reply to any messages with STOP at any time to stop receiving messages and request for help by replying HELP. The frequency of messages varies. Message and data rates may apply.
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[div]]
+[div]
+[
+[h1]How To Use Real Estate To REDUCE Taxes & Build Wealth Like TOP Billionaires
+[div]]
+[div]
+[
+[h1]steal my strategies to find, fund, and manage a single property that will make you a millionaire!
+[div]]
+[div]
+[
+[div]COUNTDOWN (glass odometer, quarter-hour reset)
+[div]]
+[div]
+[
+[div]
+[
+[div]SECURE YOUR FREE SEAT
+[div]Starting In Under 15 Minutes, Are You Ready?
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]...Or Select A Better Time
+[div]]
+[div]]
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[em]Unlock 30+ Years Of Real Estate Investing Knowledge & Experience In Just 90 Minutes
+[div]]
+[div]
+[
+[h1]At this Free Virtual Training You’ll Discover:
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[h1]How to contact
+[h1]the broker
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[h1]Finding the
+[h1]right asset
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[h1]Underwriting
+[h1]for a $1M Profit
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]SECURE YOUR FREE SEAT
+[div]Starting In Under 15 Minutes, Are You Ready?
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]...Or Select A Better Time
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[h1]MASTER THE 5 KEY ELEMENTS OF
+[div]]
+[div]
+[
+[em]REAL ESTATE INVESTING
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]SECURE YOUR FREE SEAT
+[div]Starting In Under 15 Minutes, Are You Ready?
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]...Or Select A Better Time
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[h1]14,000+
+[span]Units
+[div]]
+[div]
+[
+[h1]$5
+[span]BIllion AUM
+[div]]
+[div]
+[
+[h1]40+
+[span]Properties
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[div]
+[
+[span]Grant Cardone Has Profited From EVERY Major Real Estate Crisis
+[div]]
+[div]
+[
+[span]For 30 Years
+[div]]
+[div]
+[
+[div]]
+[div]
+[
+[h1]Grant has been featured on Yahoo Finance, CNBC and Fox News predicting exactly what's happening RIGHT NOW!
+[p]With a track record for profiting from economic contractions…
+[h1]In 1995, after the savings and loans crash Grant bought his first real estate deals and made 10X on his investments. He quickly graduated to apartments and turned $350K into $5M profit, and did it three more times over the next months accumulating 260 units which made him $15M.
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[span]TESTIMONIALS
+[div]]
+[div]
+[
+[span]Here’s What Other People are Saying About Grant’s Real Estate Investing Method
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]SECURE YOUR FREE SEAT
+[div]Starting In Under 15 Minutes, Are You Ready?
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]...Or Select A Better Time
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[em]FREQUENTLY ASKED QUESTIONS
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[h4]Q: I've never invested before. Is this for me?
+[p]Absolutely! Everyone starts somewhere. Grant started with ONE deal in 1995, became a millionaire in just 3 years, and kept acquiring deals now worth over $5 BILLION. This training is specifically designed for people who want to get in the game but don't know where to start. You'll learn exactly how to find your first deal, what to pay for it, and how to fund it even if you're starting from zero.
+[h4]Q: I already own a home, do I need this?
+[p]Yes! And here’s why: owning your home will NOT make you wealthy. There's a MASSIVE difference between owning the roof over your head and owning cash-flowing real estate that pays you every month. Grant started in single-family, but quickly realized the risks and immense lost opportunity cost of NOT investing in as many doors as possible. Shifting from single-family to multi-family is what allowed Grant to turn an initial $3,000 investment into a five-billion-dollar portfolio!
+[h4]Q: What does Cardone teach that's different from everyone else?
+[p]Grant’s experience is unique in that he is still in the game doing deals today. He started from nothing. Spent decades learning the best strategies for maximum returns. He’s never lost money on a single deal despite going through two of the worst economic crashes since the Great Depression. He currently controls over 14,000 units and two world-class office properties.
+[p]While get-rich-quick "gurus" and influencers are teaching hacks, tips and tricks, Grant is actively buying massive real estate deals RIGHT NOW. You're not getting recycled textbook knowledge or vague theories - you're getting the exact playbook from someone who's profited from EVERY deal he’s bought since 1995.
+[h4]Q: I don't have any money. Can I still invest?
+[p]It may be hard to believe, but yes! Grant will reveal exactly how to fund a real estate deal even if you have no money and bad credit. He’s done it himself many times, and if you find the right ingredients in a property, investors and banks can’t throw money at you fast enough!
+[h4]Q: If I invest like Grant, won't I just be a landlord?
+[p]Absolutely not. Grant’s strategies actually REQUIRE that you not be a landlord. With his methods you don’t have to worry about toilets, termites and tenants. You don’t have to go knocking on doors to collect rent or kick out bad tenants. Following Grant’s playbook, you’ll be an INVESTOR, not a landlord.
+[p]Grant will show you how to buy real estate as a business, not buy yourself a job.
+[h4]Q: Why is this free?
+[p]When Grant was 16 years old, he promised his mother that if he cracked the code to building wealth, he’d help as many people as possible to do the same.
+[p]This Free Training is a fundamental part of how Grant strives to keep that promise.
+[p]This training is free to remove any barrier or excuse you have to getting access to the information and resources you need to start investing and building wealth in real estate!
+[div]]
+[div]]
+[div]
+[
+[span]Don’t Wait! Register Now For Free!
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]SECURE YOUR FREE SEAT
+[div]Starting In Under 15 Minutes, Are You Ready?
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]...Or Select A Better Time
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]
+[
+[div]]
+[div]
+[
+[strong]Contact Us
+[strong]|
+[strong]Privacy Policy
+[strong]|
+[strong]Terms Of Use
+[strong]|
+[strong]Terms Of Purchase
+[strong]|
+[strong]Legal Disclaimers
+[div]]
+[div]
+[
+[h2]At Cardone Enterprises we believe that success is the result of hard work, education and persistence. Examples given should not be considered typical and there is never a guarantee of results. Information provided is educational in nature and is not legal or financial advice. By using this website or any related materials you agree to take full responsibility for your own results, or lack thereof. Our team is here to support you, but you should always do your own due diligence before making any investment or taking any risk. Success is your duty, obligation and responsibility.
+[div]]
+[div]
+[
+[strong]Cardone Training Technologies | 1-800-368-5771 | 18909 NE 29th Ave Aventura FL 33180
+[strong]© Cardone Enterprises. All Rights Reserved.
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]
+[
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]
+[div]]

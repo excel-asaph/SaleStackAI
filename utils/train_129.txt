@@ -1,0 +1,363 @@
+[title]ABC Method
+[span]*
+[label]I Would Like To Receive an SMS Text Alert Before The Event Starts
+[option]Country Code For Mobile
+[option]USA
+[option]United Kingdom
+[option]Canada
+[option]Australia
+[option]Afghanistan
+[option]Albania
+[option]Algeria
+[option]Andorra
+[option]Angola
+[option]Anguilla
+[option]Antarctic Aus Territory
+[option]Antigua and Barbuda
+[option]Antilles
+[option]Argentina
+[option]Armenia
+[option]Aruba
+[option]Ascension Island
+[option]Australia
+[option]Austria
+[option]Azerbaijan
+[option]Azores
+[option]Bahamas
+[option]Bahrain
+[option]Bangladesh
+[option]Barbados
+[option]Belarus
+[option]Belgium
+[option]Belize
+[option]Benin
+[option]Bermuda
+[option]Bhutan
+[option]Bolivia
+[option]Bosnia Herzegovina
+[option]Botswana
+[option]Brazil
+[option]Brunei Darussalam
+[option]Bulgaria
+[option]Burkina Faso
+[option]Burundi
+[option]Cambodia
+[option]Cameroon
+[option]Cape Verde Islands
+[option]Cayman Islands
+[option]Central African Republic
+[option]Chad
+[option]Chile
+[option]China
+[option]Christmas Island
+[option]Cocos Island
+[option]Colombia
+[option]Comoros
+[option]Congo
+[option]Congo (Dem. Rep. of / Zaire)
+[option]Cook Islands
+[option]Costa Rica
+[option]Cote d'Ivoire
+[option]Croatia
+[option]Cuba
+[option]Cyprus
+[option]Czech Republic
+[option]Denmark
+[option]Djibouti
+[option]Dominica
+[option]Dominican Republic
+[option]Ecuador
+[option]Egypt
+[option]El Salvador
+[option]Equatorial Guinea
+[option]Eritrea
+[option]Estonia
+[option]Ethiopia
+[option]Falkland Islands
+[option]Faroe Islands
+[option]Fiji
+[option]Finland
+[option]France
+[option]French Guiana
+[option]French Polynesia
+[option]Gabon
+[option]Gambia
+[option]Georgia
+[option]Germany
+[option]Ghana
+[option]Gibraltar
+[option]Greece
+[option]Greenland
+[option]Grenada
+[option]Guadeloupe
+[option]Guam
+[option]Guatemala
+[option]Guinea
+[option]Guinea - Bissau
+[option]Guyana
+[option]Haiti
+[option]Honduras
+[option]Hong Kong
+[option]Hungary
+[option]Iceland
+[option]India
+[option]Indonesia
+[option]Iran
+[option]Iraq
+[option]Ireland, Republic of
+[option]Israel
+[option]Italy
+[option]Ivory Coast see Cote d'Ivoire
+[option]Jamaica
+[option]Japan
+[option]Jordan
+[option]Kazakhstan
+[option]Kenya
+[option]Kirghizstan
+[option]Kiribati
+[option]Korea (North)
+[option]Korea (South)
+[option]Kuwait
+[option]Laos
+[option]Latvia
+[option]Lebanon
+[option]Lesotho
+[option]Liberia
+[option]Libya
+[option]Liechtenstein
+[option]Lithuania
+[option]Luxembourg
+[option]Macao
+[option]Macedonia
+[option]Madagascar
+[option]Malawi
+[option]Malaysia
+[option]Maldives
+[option]Mali
+[option]Malta
+[option]Marshall Islands
+[option]Martinique
+[option]Mauritania
+[option]Mauritius
+[option]Mayotte
+[option]Mexico
+[option]Micronesia
+[option]Moldova
+[option]Monaco
+[option]Mongolia
+[option]Montserrat
+[option]Morocco
+[option]Mozambique
+[option]Myanmar (Burma)
+[option]Namibia
+[option]Nauru
+[option]Nepal
+[option]Netherlands (Holland)
+[option]Netherlands Antilles
+[option]New Caledonia
+[option]New Zealand
+[option]Nicaragua
+[option]Niger
+[option]Nigeria
+[option]Niue
+[option]Norfolk island
+[option]Norway
+[option]Oman
+[option]Pakistan
+[option]Panama
+[option]Papua New Guinea
+[option]Paraguay
+[option]Peru
+[option]Philippines
+[option]Pitcairn Island
+[option]Poland
+[option]Portugal
+[option]Puerto Rico
+[option]Qatar
+[option]Reunion
+[option]Romania
+[option]Russia
+[option]Rwanda
+[option]St Helena
+[option]St Kitts and Nevis
+[option]St Lucia
+[option]St Pierre et Miquelon
+[option]St Vincent & Grenadines
+[option]Samoa (USA)
+[option]Samoa (Western)
+[option]San Marino
+[option]Saudi Arabia
+[option]Senegal
+[option]Serbia and Montenegro
+[option]Seychelles
+[option]Sierra Leone
+[option]Singapore
+[option]Slovakia
+[option]Slovenia
+[option]Solomon Islands
+[option]Somalia
+[option]South Africa
+[option]Spain
+[option]Sri Lanka
+[option]Sudan
+[option]Surinam
+[option]Swaziland
+[option]Sweden
+[option]Switzerland
+[option]Syria
+[option]Taiwan
+[option]Tajikistan
+[option]Tanzania
+[option]Thailand
+[option]Togo
+[option]Tokelau
+[option]Tonga
+[option]Trinidad & Tobago
+[option]Tunisia
+[option]Turkey
+[option]Turkmenistan
+[option]Turks & Caicos
+[option]Tuvalu
+[option]Uganda
+[option]Ukraine
+[option]United Arab Emirates
+[option]Uruguay
+[option]Uzbekistan
+[option]Vanuatu
+[option]Vatican
+[option]Venezuela
+[option]Vietnam
+[option]Virgin Islands (UK)
+[option]Virgin Islands (US)
+[option]Yemen
+[option]Zambia
+[option]Zimbabwe
+[p](Optional but highly recommended) Select Your Country Code and Enter Your Mobile Phone Number To Receive a Text Alert Reminder 15 Minutes Before The Event Starts
+[span]Get Your FREE Ticket NOW!
+[h1]3-Day, FREE Intensive To Sell Any Product Online
+[h1]3-Day, FREE Intensive To Sell Any Product Online
+[span]00
+[span]Hour
+[span]00
+[span]Minute
+[span]00
+[span]Second
+[h2]REVEALED:
+[h2]"The ABC Method Is Exposing
+[h2]The ENTIRE System to
+[a]Attract
+[h2],
+[a]Build
+[h2], AND
+[a]Convert
+[h2]Customers
+[h2]Without Creating Any Products,
+[h2]Websites or Ads..."
+[h2]This is the place.
+[b]Get it DONE in 3 days.
+[b]Happening LIVE, ALL In The FREE Facebook Group
+[strike]Only $97
+[h2]Join for FREE.
+[span]YES! I Want To Join The FREE 3-Day Intensive And Get $3,997 Worth Of Training For FREE
+[b]Just Show Up Live And You'll be Eligible To Win DAILY Prizes Including Tickets To Peng Joon's Events, 1-on-1 Coaching, & More!
+[h2]Meet Your Mentor - Peng Joon
+[b]Two Comma Club “C” $25 Million Dollar Award Winner
+[li]Successfully launched multiple businesses to over $10 million a year in revenue.
+[b]Practitioner, Not Theorist
+[li]As one of the most requested speakers in the world, Peng Joon is routinely called upon by elite entrepreneurs, and organisations to consult and give strategic guidance on how to design, deliver and deploy scalable sales processes online.
+[h2]Shared the Stage With Leaders, Luminaries and Legends
+[h2]Gary Vaynerchuk
+[h2]Tony Robbins
+[h2]Brendon Burchard
+[h2]Grant Cardone
+[h2]Russell Brunson
+[h2]You
+[a]Do NOT Have to Be An Industry Legend
+[h2]to Get Legendary Results
+[b]Sudha Generating Her First $3,988 By Selling an Offer First (Before Creating) Targeting Professional Make Up Artists
+[b]Ernie Crushing It In the eCom Space in the Mandarin Speaking Market (This Works Worldwide!)
+[b]Esther Generating $3k From Her First Webinar In the Relationship Market
+[b]Daniel Closing RM71,977 ($18,000) Closing High Ticket Clients With No Ad Spend
+[b]Coco Getting Paid for the First Time Ever
+[span]Click Here to Get Your Ticket to "ABC Method"
+[span]Stream from the Comfort of Your Home!
+[b]Most people think that it’s a specific tactic.
+[b]Most people think that it’s a specific tactic.
+[b]A move.
+[b]Some strategy.
+[div]Sure, strategy and technique is important.
+[b]But what if I told you that it comes down to this.
+[b]Here’s the big opportunity right NOW.
+[div]If you want to successfully promote any type of these products...
+[div]"After training with Peng Joon, I have learned how to monetise my brand, I have greater clarity on what direction I'm heading, and my business has been transformed and multiplied because of Peng Joon."
+[b]– Julius Dein
+[div]“If you’re looking to do events, drive traffic, sell products, I highly recommend working with Peng Joon.”
+[b]– Russell Brunson
+[div]“Peng Joon just changed my life. I didn’t know how to and where to start and I’m walking away with more confidence than ever before.”
+[b]– Alison Prince
+[div]I want to be able to help you
+[i]promote any product, program or service by targeting audiences
+[div]who are going to buy that product anyway, and they
+[b]might as well buy it through you
+[div].
+[span]YES! I Want To Join The FREE 3-Day Intensive And Get $3,997 Worth Of Training For FREE
+[b]Now, you’re probably wondering…
+[b]Normally if you were to attend any of our LIVE events, it is $3,997 per person.
+[div](That means, to bring a family of 4 - like mine - it would cost $16,000!)
+[div]Oh, and you have flights… hotels… and food costs.
+[div]But, since we’re going to be
+[b]streaming it LIVE into your home
+[div], or to your phone…
+[div]And because
+[b]I want your business to THRIVE
+[div]during these crazy times…
+[b]Well, there’s a couple of reasons.
+[div]1) I want to
+[b]pave the way and set a new standard
+[div]for being paid
+[b]based on results and performance
+[div].
+[div]2)
+[b]I get another one of my products into your hands
+[div], and when you see how awesome it is, it should get you excited to buy other stuff from me in the future.
+[div]The more money I can make you now, the more likely you are to join my $30k Legacy Mentoring program in the future.
+[div]3)
+[b]I'm kinda a show-off...
+[div]I know there are many gurus out there throwing out numbers without any real proof to back up their results.
+[span]YES! I Want To Join The FREE 3-Day Intensive And Get $3,997 Worth Of Training For FREE
+[b]This is a LIVE event...
+[div]and it's happening for
+[a]3 FULL DAYS
+[div]at these
+[b]different time zones...
+[div]That means you need to block out the time… Take time off work…
+[div]And
+[b]come prepared to learn and implement!
+[span]YES! I Want To Join The FREE 3-Day Intensive And Get $3,997 Worth Of Training For FREE
+[b]Here’s what others are saying about my Immersion Trainings:
+[span]Click Here to Get Your Ticket to "ABC Method"
+[span]Stream from the Comfort of Your Home!
+[div]If you could grab and implement just a handful of principles and use it to
+[b]sell more of your products, programs and services...
+[div]would it be worth it?
+[div]Can you even imagine the mistakes I’ve already made, struggled with, learned the ‘hard way’, so that you can avoid them?
+[b]Think about this for a second…
+[span]YES! I Want To Join The FREE 3-Day Intensive And Get $3,997 Worth Of Training For FREE
+[b]ABC Method
+[div]by Peng Joon
+[div]©2022 - All Rights Reserved
+[a]Terms of Service
+[a]Privacy Policy
+[a]Refund Policy
+[a]Support
+[body][if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><!
+[endif]
+[h2]Working...
+[body]© 2021 CF Pro Tools | Vimeo Autoplay Unmute Restart 1
+[div]Hi there! Have a question? Chat with us.
+[div]Have a question?
+[div]Enter your question below and a representative will get right back to you.
+[p]By submitting you agree to receive SMS or e-mails for the provided channel. Rates may be applied.
+[span]Send
+[div]Powered by
+[a]Cartnetics
